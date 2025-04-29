@@ -1,0 +1,5993 @@
+AAA,Anaa
+AAC,EL-ARISH
+AAE,Annaba
+AAF,APALACHICOLA MUNI AIRPORT
+AAG,ARAPOTI
+AAK,Aranuka
+AAL,Aalborg Airport
+AAM,  Mala Mala
+AAN,Al Ain
+AAP,Aji Pangeran Tumenggung Pranoto
+AAQ,Anapa
+AAR,Aarhus Tirstrup Airport
+AAT,Altay
+AAX,Araxa
+AAY,Al Ghaydah
+AAZ,Quetzaltenango
+ABA,Abakan
+ABB,Asaba
+ABC,Albacete
+ABD,Abadan
+ABE,Allentown/Bethlehem/Easton
+ABF,Abaiang
+ABH,ALPHA
+ABI,Abilene Regional Apt
+ABJ,Abidjan
+ABK,Kebri Dehar
+ABL,Ambler
+ABM,Bamaga
+ABQ,Albuquerque
+ABR,Aberdeen
+ABS,Abu Simbel
+ABT,Al Baha
+ABU,Haliwen
+ABV,Abuja
+ABX,Albury
+ABY,Albany Dougherty County Apt
+ABZ,Aberdeen
+ACA,Acapulco
+ACC,Accra
+ACE,Lanzarote
+ACF,Aral Talim
+ACH,Altenrhein
+ACI,Alderney
+ACK,Nantucket
+ACP,Maragheh
+ACR,Araracuara
+ACT,Waco Municipal Apt
+ACU,Achutupo
+ACV,Arcata/Eureka
+ACX,Xingyi
+ACY,Atlantic City International
+ACZ,Zabol
+ADA,Adana
+ADB,Izmir Adnan Menderes Apt
+ADD,Addis Ababa
+ADE,Aden
+ADF,Adiyaman
+ADH,ALDAN
+ADJ,AMMAN MARKA INTL
+ADK,Adak Island
+ADL,Adelaide International
+ADP,ANURADHAPURA
+ADQ,Kodiak Apt
+ADS,DALLAS/ADDISON
+ADU,Ardabil
+ADW,ANDREWS AFB
+ADX,LEUCHARS
+ADZ,San Andres Island
+AEA,Abemama
+AEB,Baise
+AEG,  Padang Sidempuan
+AEH,ABECHE
+AEO,AIOUN-EL-ATROUSS
+AEP,Buenos Aires Aeroparque J. Newbery
+AER,Sochi
+AES,Alesund
+AET,Allakaket
+AEU,Abu Musa
+AEX,Alexandria International Apt
+AEY,Akureyri
+AFA,San Rafael
+AFB,PAYERNE AFB
+AFL,Alta Floresta
+AFS,Zarafshan
+AFT,  Afutara
+AFW,FORT WORTH ALLIANCE
+AFY,AFYON
+AFZ,Sabzevar
+AGA,Agadir
+AGB,Munich Augsburg Apt
+AGC,PITTSBURH/ALLEGHENY CO
+AGF,Agen
+AGH,Angelholm/Helsingborg Angelholm Apt
+AGL,  Wanigela
+AGM,Tasiilaq
+AGN,Angoon
+AGP,Malaga
+AGQ,AGRINION
+AGR,Agra
+AGS,Augusta Bush Field
+AGT,Ciudad del Este
+AGU,Aguascalientes
+AGV,ACARIGUA
+AGX,Agatti Island
+AGZ,AGGENEYS
+AHB,Abha
+AHE,Ahe
+AHJ,Hongyuan
+AHN,Athens
+AHO,Alghero
+AHS,  Ahuas
+AHU,Al Hoceima
+AIA,Alliance
+AIC,XXX
+AID,ANDERSON MUN DARLINGTON FLD
+AIF,ASSIS
+AIM,XXX
+AIN,Wainwright
+AIP,Adampur
+AIR,Aripuana Airport
+AIS,Arorae
+AIT,Aitutaki Island
+AIU,Atiu Island
+AJA,Ajaccio
+AJF,Jouf
+AJI,Agri
+AJK,Arak
+AJL,Aizawl
+AJN,Anjouan
+AJR,Arvidsjaur
+AJU,Aracaju
+AJY,AGADEZ/MANU DAYAK
+AKA,  Ankang
+AKB,Atka
+AKC,AKRON
+AKD,AKOLA
+AKF,Kufra
+AKH,GASTONIA MUNI
+AKI,Akiak
+AKJ,Asahikawa
+AKK,Akhiok
+AKL,Auckland International Apt
+AKN,King Salmon
+AKP,Anaktuvuk Pass
+AKR,AKURE
+AKS,Auki
+AKT,AKROTIRI
+AKU,Aksu
+AKV,Akulivik
+AKX,Aktobe
+AKY,Sittwe
+ALA,Almaty
+ALB,Albany International Airport
+ALC,Alicante
+ALF,Alta
+ALG,Algiers
+ALH,Albany
+ALI,ALICE INTL
+ALJ,ALEXANDER BAY
+ALL,ALBENGA
+ALM,  Alamogordo
+ALN,ALTON/ST. LOUIS REGIONAL
+ALO,Waterloo
+ALQ,Alegrete
+ALP,ALEPPO INTL
+ALR,ALEXANDRA
+ALS,Alamosa
+ALW,Walla Walla
+ALY,ALEXANDRIA INTL
+ALZ,Alitak
+AMA,Amarillo International Apt
+AMD,Ahmedabad
+AMH,Arba Minch
+AMI,MATARAM/SELAPARANG
+AMJ,ALMENARA
+AMM,Amman Queen Alia International Apt
+AMQ,Ambon
+AMS,Amsterdam
+AMV,AMDERMA
+AMY,  Ambatomainty
+AMZ,ARDMORE
+ANB,ANNISTON METROPOLITAN
+ANC,Anchorage International Apt
+AND,ANDERSON
+ANE,ANGERS/MARCE
+ANF,Antofagasta
+ANG,ANGOULEME/ BRIE CHAMPNIERS
+ANI,Aniak
+ANJ,SAULT STE MARIE MUNI/SANDERSON
+ANK,ANKARA/ETIMESGUT
+ANM,Antalaha
+ANN,ANNETTE ISLAND
+ANO,ANGOCHE
+ANR,Antwerp
+ANS,Andahuaylas
+ANU,Antigua
+ANV,Anvik
+ANW,AINSWORTH
+ANX,Andenes
+AOC,ALTENBURG-NOBITZ
+AOE,Eskisehir Hasan Polatkan
+AOG,  Anshan
+AOI,Ancona
+AOJ,Aomori
+AOK,Karpathos
+AOL,PASO DE LOS LIBRES
+AOO,Altoona
+AOQ,Aappilattoq
+AOR,Alor Setar
+AOS,Amook
+AOT,AOSTA
+AOU,ATTOPEU
+AOX,YUBILEYNYI/BAJKONUR
+APA,DENVER/ARAPAHOE/CENTENNIAL
+APC,NAPA CO
+APF,Naples
+APG,PHILLIPS AAF (ABERDEEN PG)
+API,GOMEZ NINO APIAY AB
+APK,Apataki
+APL,Nampula
+APN,Alpena
+APO,Apartado
+APS,ANAPOLIS
+APU,APUCARANA
+APV,APPLE VALLEY
+APW,Apia Faleolo Apt
+APX,ARAPONGAS
+AQA,ARARAQUARA
+AQG,Anqing
+AQI,Qaisumah
+AQJ,Aqaba
+AQP,Arequipa
+ARA,NEW IBERIA/ACADIANA RGNL
+ARC,Arctic Village
+ARD,Alor Island
+ARH,Arkhangelsk
+ARI,Arica
+ARK,Arusha
+ARM,Armidale
+ARN,Stockholm Arlanda Apt
+ARS,ARAGARCAS
+ART,Watertown
+ARU,Aracatuba
+ARV,  Minocqua-Woodruff
+ARW,Arad
+ARX,Aracati
+ARY,ARARAT
+ASA,ASSAB
+ASB,Ashgabat International
+ASD,  Andros Town
+ASE,Aspen
+ASF,Astrakhan
+ASI,ASCENSION AUX AB WIDEAWAKE
+ASJ,Amami
+ASK,YAMOUSSOUKRO
+ASM,Asmara
+ASO,Asosa
+ASP,Alice Springs Airport
+ASR,Kayseri
+ASS,Arathusa Safari Lodge Airport
+AST,ASTORIA
+ASU,Asuncion
+ASV,Amboseli
+ASW,Aswan
+ATA,Anta
+ATB,ATBARA
+ATC,Arthur's Town
+ATD,Atoifi
+ATF,AMBATO/CHACHOAN
+ATH,Athens
+ATK,Atqasuk
+ATL,Atlanta Hartsfield-Jackson Intl Apt
+ATM,Altamira
+ATN,  Namatanai
+ATQ,Amritsar
+ATR,ATAR
+ATT,Atmautluak
+ATW,Appleton
+ATY,Watertown
+ATZ,Asyut
+AUA,Aruba
+AUC,Arauca
+AUF,AUXERRE/BRANCHES
+AUG,Augusta
+AUH,Abu Dhabi International Apt
+AUK,Alakanuk
+AUL,XXX
+AUQ,Hiva Oa
+AUR,Aurillac
+AUS,Austin-Bergstrom International Apt
+AUU,Aurukun
+AUW,WAUSAU DOWNTOWN
+AUX,Araguaina
+AUY,Aneityum
+AVA,Anshun
+AVB,AVIANO
+AVI,CIEGO DE AVILA MAXIMO GOMEZ
+AVL,Asheville
+AVN,AVIGNON/CAUMONT
+AVP,Wilkes-Barre Scranton International Apt
+AVR,ALVERCA-DGMFA
+AVU,  Avu Avu
+AVV,Melbourne Avalon Airport
+AWA,  Awasa
+AWB,  Awaba
+AWD,Aniwa
+AWK,WAKE ISLAND AAF
+AWZ,Ahwaz
+AXA,Anguilla
+AXD,Alexandroupolis
+AXF,Alxa Left Banner Bayanhot
+AXJ,Amakusa Airfield
+AXK,Ataq
+AXM,Armenia
+AXN,ALEXANDRIA/CHANDLER FIELD
+AXP,Spring Point
+AXR,Arutua
+AXT,Akita
+AXU,Axum
+AYJ,Ayodhya
+AYK,ARKALYK
+AYP,Ayacucho
+AYQ,Ayers Rock
+AYR,AYR
+AYS,WAYCROSS WARE CO
+AYT,Antalya
+AZA,Phoenix Williams Gateway Airport
+AZD,Yazd
+AZI,Abu Dhabi Bateen Apt
+AZN,Andizhan
+AZO,Kalamazoo
+AZR,Adrar
+AZS,Samana
+BAB,BEALE AFB MARYSVILLE
+BAD,BOSSIER CITY/BARKSDALE AFB
+BAF,WESTFIELD/BARNES MUNI
+BAG,BAGUIO
+BAH,Bahrain
+BAL,Batman
+BAM,BATTLE MOUNTAIN
+BAQ,Barranquilla
+BAR,Qionghai Bo'ao
+BAS,Balalae
+BAT,BARRETOS/CHAFEI AMSEI
+BAU,BAURU
+BAV,Baotou
+BAX,Barnaul
+BAY,Baia Mare
+BAZ,Barcelos
+BBA,Balmaceda
+BBG,Butaritari
+BBH,BARTH
+BBI,Bhubaneshwar
+BBJ,BITBURG
+BBK,Kasane
+BBL,Ballera
+BBM,BATTAMBANG
+BBN,Bario
+BBO,Berbera
+BBQ,  Codrington
+BBS,BLACKBUSH
+BBT,BERBERATI
+BBU,BUCHAREST/BANEASA-AUREL VLAICU
+BBW,BROKEN BOW
+BCA,Baracoa
+BCD,Bacolod
+BCH,BAUCAU
+BCI,Barcaldine
+BCL,  Barra del Colorado
+BCM,Bacau
+BCN,Barcelona Apt
+BCO,Baco
+BCR,BOCA DO ACRE/NOVO CAMPO
+BCT,BOCA RATON
+BCU,Bauchi State Airport
+BCV,Belmopan
+BCW,Benguera Island
+BDA,Bermuda L.F Wade International
+BDB,Bundaberg
+BDD,  Badu Island
+BDE,BAUDETTE INTL
+BDH,Bandar Lengeh
+BDJ,Banjarmasin
+BDL,Hartford Bradley International Apt
+BDM,BALIKESIR/BANDIRMA
+BDO,Bandung
+BDP,Bhadrapur
+BDQ,Vadodara
+BDR,BRIDGEPORT/IGOR I. SIKORSKY
+BDS,Brindisi
+BDT,GBADOLITE
+BDU,Bardufoss
+BEB,Benbecula
+BED,BEDFORD/LAURENCE G.HANSCOM FLD
+BEF,Bluefields
+BEG,Belgrade
+BEJ,Tanjung Redeb
+BEK,Bareilly
+BEL,Belem
+BEM,Beni Mellal
+BEN,Benghazi
+BEP,  Bellary
+BER,  Berlin Brandenburg
+BES,Brest
+BET,Bethel Municipal Apt
+BEU,Bedourie
+BEV,BEER SHEBA-TEYMAN
+BEZ,Beru
+BEW,Beira
+BEX,BENSON
+BEY,Beirut
+BFD,Bradford
+BFF,Scottsbluff
+BFI,Seattle Boeing Field
+BFJ,Bijie
+BFL,Bakersfield
+BFM,MOBILE DOWNTOWN
+BFN,Bloemfontein
+BFO,CHIREDZI/BUFFALO RANGE
+BFP,BEAVER CO
+BFQ,Bahia Pinas
+BFS,Belfast International Apt
+BFV,Buriram
+BFX,BAFOUSSAM
+BGA,Bucaramanga
+BGC,BRAGANCA
+BGF,Bangui
+BGG,Bingol
+BGI,Barbados
+BGM,Binghamton
+BGN,Belaya Gora
+BGO,Bergen
+BGR,Bangor
+BGU,BANGASSOU
+BGW,Baghdad
+BGX,BAGE/GUSTAVO KRAEMER
+BGY,Milan Bergamo/Orio al Serio Apt
+BHA,SAN VICENTE
+BHB,Bar Harbor
+BHD,Belfast George Best City Apt
+BHE,Blenheim
+BHG,  Brus Laguna
+BHH,Bisha
+BHI,Bahia Blanca
+BHJ,Bhuj
+BHK,Bukhara
+BHM,Birmingham
+BHO,Bhopal
+BHQ,Broken Hill
+BHR,Bharatpur
+BHS,Bathurst
+BHU,Bhavnagar
+BHV,Bahawalpur
+BHX,Birmingham Airport
+BHY,Beihai
+BIA,Bastia
+BIC,Big Creek
+BID,  Block Island
+BIE,BEATRICE
+BIF,BIGGS AAF
+BIG,DELTA JUNCTION/FT GREELY ALLEN
+BIH,BISHOP E. SIERRA REGNL
+BII,  Bikini Atoll
+BIK,Biak
+BIL,Billings
+BIM,Bimini International Apt
+BIN,Bamyan
+BIO,Bilbao
+BIQ,Biarritz
+BIR,Biratnagar
+BIS,Bismarck
+BIV,BRIA
+BIX,KEESLER AFB/BILOXI
+BIY,BHISHO
+BJA,Bejaia
+BJB,Bojnurd
+BJC,DENVER JEFFCO
+BJF,Batsfjord
+BJI,Bemidji
+BJL,Banjul
+BJM,Bujumbura
+BJR,Bahar Dar
+BJT,Bentota River
+BJV,Bodrum Milas Airport
+BJW,Turelelo Soa
+BJX,Leon/Guanajuato
+BJY,BEOGRAD/BATAJNICA
+BJZ,Badajoz
+BKA,Moscow Bykovo Apt
+BKB,Nal Airport
+BKC,Buckland
+BKE,BAKER CITY MUNI
+BKF,AURORA/BUCKLEY AFB
+BKG,Branson
+BKI,Kota Kinabalu
+BKK,Bangkok Suvarnabhumi International Apt
+BKL,CLEVELAND BURKE
+BKM,Bakelalan
+BKN,Balkanabat
+BKO,Bamako
+BKQ,Blackall
+BKS,Bengkulu
+BKW,Beckley
+BKY,Bukavu
+BKZ,Bukoba
+BLA,Barcelona
+BLB,BALBOA/HOWARD AFB
+BLD,Las Vegas Boulder City Airport
+BLE,Borlange/Falun
+BLF,BLUEFIELD
+BLH,BLYTHE
+BLI,Bellingham
+BLJ,Batna
+BLK,Blackpool
+BLL,Billund
+BLQ,Bologna
+BLR,Bengaluru
+BLT,BLACKWATER
+BLV,Belleville
+BLZ,Blantyre
+BMA,Stockholm Bromma Apt
+BMB,Bumba
+BMC,BRIGHAM CITY
+BMD,  Belo sur Tsiribihina
+BME,Broome
+BMI,Bloomington-Normal
+BMK,  Borkum
+BMO,Bhamo
+BMU,Bima
+BMV,Ban Me Thuot
+BMW,Bordj Mokhtar
+BMY,Ile Art
+BNA,Nashville
+BNB,Boende
+BNC,Beni
+BND,Bandar Abbas
+BNE,Brisbane
+BNI,Benin City
+BNJ,Bonn Stn. (DE)
+BNK,Ballina
+BNN,Bronnoysund
+BNO,BURNS
+BNP,BANNU
+BNS,Barinas
+BNX,Banja Luka
+BNY,Bellona
+BOA,  Boma
+BOB,Bora Bora
+BOC,Bocas Del Toro
+BOD,Bordeaux Merignac Apt
+BOG,Bogota
+BOH,Bournemouth
+BOI,Boise
+BOJ,Burgas
+BOM,Mumbai
+BON,Bonaire
+BOO,Bodo
+BOP,BOUAR
+BOS,Boston Logan International Apt
+BOT,  Boset
+BOU,BOURGES
+BOX,BORROLOOLA
+BOY,Bobo Dioulasso
+BPA,Borongan
+BPC,Bamenda
+BPE,Qinhuangdao Beidaihe Airport
+BPF,  Batuna
+BPG,BARRO DO GARCAS
+BPH,BISLIG
+BPI,BIG PINEY
+BPL,Bole
+BPM,Hyderabad Begumpet Airport
+BPN,Balikpapan
+BPS,Porto Seguro
+BPT,Beaumont Jefferson County Apt
+BPX,Qamdo/Changdu
+BPY,  Besalampy
+BQA,BALER
+BQB,Busselton
+BQG,Bogorodskoye
+BQH,BIGGIN HILL
+BQJ,Batagay
+BQK,Brunswick Glynco Jetport
+BQL,Boulia
+BQN,Aguadilla
+BQQ,BARRA BONITA/FAZ SANTA LUIZA
+BQS,Blagoveschensk
+BQT,BREST
+BRA,Barreiras
+BRB,BARREIRINHA
+BRC,San Carlos de Bariloche
+BRD,Brainerd
+BRE,Bremen
+BRI,Bari
+BRK,BOURKE
+BRL,Burlington
+BRM,Barquisimeto
+BRN,Berne Belp
+BRO,Brownsville
+BRQ,Brno
+BRR,Barra
+BRS,Bristol
+BRT,BATHURST ISLAND
+BRU,Brussels Airport
+BRV,BREMERHAVEN
+BRW,Barrow Wiley Post/Will Rogers Memorial
+BRX,BARAHONA/MARIA MONTEZ
+BSA,Bosaso
+BSB,Brasilia
+BSC,Bahia Solano
+BSD,Baoshan
+BSG,Bata
+BSJ,BAIRNSDALE
+BSK,Biskra
+BSL,Basel
+BSO,Basco
+BSR,Basrah
+BSS,BALSAS
+BST,  Lashkar Gah
+BSX,  Bassein
+BSZ,Bartletts
+BTC,Batticaloa
+BTH,Batam
+BTI,Barter Island
+BTJ,Banda Aceh
+BTK,Bratsk
+BTL,BATTLE CREEK W K KELLOGG
+BTM,Butte
+BTR,Baton Rouge Metropolitan Apt
+BTS,Bratislava
+BTT,Bettles
+BTU,Bintulu
+BTV,Burlington
+BTW,Batu Licin
+BTZ,BURSA/YENISEHIR
+BUA,Buka
+BUC,Burketown
+BUD,Budapest
+BUF,Buffalo
+BUG,BENGUELA
+BUJ,BOU-SAADA
+BUL,Bulolo
+BUN,Buenaventura
+BUO,  Burao
+BUP,Bathinda
+BUQ,Bulawayo
+BUR,Burbank
+BUS,Batumi
+BUT,Bathpalathang
+BUU,Muara Bungo
+BUW,Baubau
+BUX,Bunia
+BUY,BUNBURY
+BUZ,Bushehr
+BVA,Paris Beauvais-Tille Airport
+BVB,Boa Vista
+BVC,Boa Vista Island
+BVE,Brive-la-Gaillarde
+BVG,Berlevag
+BVH,Vilhena
+BVI,Birdsville
+BVM,BELMONTE
+BVS,BREVES
+BVV,Iturup Island
+BVY,BEVERLY MUNI
+BWA,Bhairawa
+BWB,BARROW ISLAND
+BWE,BRAUNSCHWEIG-WOLFSBURG
+BWG,BOWLING GREEN/WARREN CO. RGNL
+BWH,BUTTERWORTH
+BWI,Baltimore Washington International Apt
+BWK,BRAC
+BWN,Bandar Seri Begawan
+BWO,BALAKOVO
+BWQ,BREWARRINA
+BWT,Burnie
+BWU,SYDNEY/BANKSTOWN
+BWW,Cayo Las Brujas
+BWX,Blimbingsari
+BXB,Irarutu
+BXE,BAKEL
+BXG,Bendigo
+BXH,BALKHASH
+BXR,Bam
+BXU,Butuan
+BYC,Yacuiba
+BYF,Meaulte
+BYH,BLYTHEVILLE ARKANSAS INTL
+BYI,BURLEY MUNI AIRPORT
+BYK,BOUAKE
+BYM,Bayamo
+BYN,Bayankhongor
+BYO,Bonito
+BYP,Barimunya
+BYR,  L s?
+BYU,BAYREUTH
+BZB,Bazaruto Island
+BZC,BUZIOS/UMBERTO MODIANO
+BZD,BALRANALD
+BZE,Belize City Goldson Intl Apt
+BZG,Bydgoszcz
+BZI,BALIKESIR
+BZK,BRYANSK
+BZL,BARISAL
+BZN,Bozeman
+BZO,Bolzano/Bozen
+BZR,Beziers
+BZV,Brazzaville
+BZX,Bazhong Enyang
+BZY,BALTI INTL
+BZZ,BRIZE NORTON
+C27,CAERNARFON
+CAB,Cabinda
+CAC,Cascavel
+CAE,Columbia Metropolitan Apt
+CAF,Carauari Airport
+CAG,Cagliari
+CAH,Ca Mau
+CAI,Cairo
+CAJ,Canaima
+CAK,Akron/Canton Ohio Regional
+CAL,Campbeltown
+CAN,Guangzhou
+CAO,CLAYTON MUNI ARPK AIRPORT
+CAP,Cap Haitien
+CAR,CARIBOU MUNI AIRPORT
+CAS,CASABLANCA/ANFA
+CAU,CARUARU
+CAV,CAZOMBO
+CAW,Campos
+CAX,CARLISLE
+CAY,Cayenne
+CAZ,Cobar
+CBB,Cochabamba
+CBD,CARNICOBAR
+CBG,Cambridge
+CBH,Bechar
+CBJ,CABO ROJO/ PEDERNALES
+CBL,CIUDAD BOLIVAR
+CBO,Cotabato
+CBQ,Calabar
+CBR,Canberra
+CBS,Cabimas
+CBT,Catumbela
+CBU,COTTBUS-DREWITZ
+CBW,CAMPO MOURAO
+CBX,CONDOBOLIN
+CCC,Cayo Coco
+CCE,SAINT MARTIN/GRAND CASE
+CCF,Carcassonne
+CCH,CHILE CHICO
+CCJ,Kozhikode
+CCK,Cocos Islands
+CCL,CHINCHILLA
+CCM,Criciuma
+CCN,Chaghcharan
+CCP,Concepcion
+CCS,Caracas
+CCU,Kolkata
+CCV,Craig Cove
+CCZ,  Chub Cay
+CDB,Cold Bay
+CDC,Cedar City
+CDE,Chengde Puning
+CDG,Paris Charles de Gaulle Apt
+CDH,CAMDEN HARRELL FIELD
+CDI,CACHOEIRO DO ITAPEMIIM
+CDJ,CONCEICAO DO ARAGUAIA
+CDP,Kadapa
+CDR,Chadron
+CDS,CHILDRESS
+CDT,Castelloon-Costa Azahar Airport
+CDU,CAMDEN
+CDV,Cordova Mudhole Smith Airport
+CDW,Caldwell
+CEB,Cebu
+CEC,Crescent City
+CED,Ceduna
+CEE,Cherepovets
+CEF,CHICOPEE/WESTOVER ARB
+CEG,Chester
+CEI,Chiang Rai
+CEK,Chelyabinsk
+CEL,Canela
+CEM,Central
+CEN,Ciudad Obregon
+CEQ,CANNES/MANDELIEU
+CER,CHERBOURG/MAUPERTUS
+CES,CESSNOCK
+CET,CHOLET/LE PONTREAU
+CEW,BOB SIKES
+CEZ,Cortez
+CFA,Coffee Point
+CFB,Cabo Frio
+CFC,Cacador
+CFE,Clermont-Ferrand
+CFF,GLENDON/GREAT BEAR LAKE
+CFG,Cienfuegos
+CFK,Chlef
+CFN,Donegal
+CFR,Caen
+CFS,Coffs Harbour
+CFU,Kerkyra
+CGA,Craig
+CGB,Cuiaba
+CGD,Changde
+CGH,Sao Paulo Congonhas Apt
+CGI,Cape Girardeau
+CGK,Jakarta Soekarno-Hatta Apt
+CGM,Camiguin
+CGN,Cologne/Bonn Apt
+CGO,Zhengzhou
+CGP,Chittagong
+CGQ,Changchun
+CGR,Campo Grande
+CGY,Cagayan de Oro
+CHA,Chattanooga Lovell Field Apt
+CHC,Christchurch
+CHE,Tallinn Heliport
+CHG,Chaoyang
+CHH,CHACHAPOYAS
+CHM,CHIMBOTE/TNT.J.A DE MONTREUIL
+CHN,CHONGJU
+CHO,Charlottesville
+CHQ,Chania
+CHR,CHATEAUROUX DEOLS
+CHS,Charleston
+CHT,CHATHAM ISLANDS
+CHU,Chuathbaluk
+CHX,Changuinola
+CHY,Choiseul Bay
+CIA,Rome Ciampino Apt
+CIC,Chico
+CID,Cedar Rapids
+CIF,Chifeng
+CIG,CRAIG-MOFFAT AIRPORT
+CIH,Changzhi
+CIJ,Cobija
+CIK,Chalkyitsik
+CIN,JACKSON JULIAN CARROLL
+CIP,Chipata
+CIS,CANTON ISLAND
+CIT,Shymkent
+CIU,Sault Ste Marie Chippewa County Apt
+CIW,  Canouan Island
+CIX,Chiclayo
+CIY,Comiso
+CIZ,Coari
+CJA,Cajamarca
+CJB,Coimbatore
+CJC,Calama
+CJF,Coondewanna
+CJJ,Cheongju
+CJL,Chitral
+CJM,Chumphon
+CJS,Ciudad Juarez
+CJT,COMITAN
+CJU,Jeju International
+CKB,Clarksburg
+CKC,CHERKASSY
+CKD,Crooked Creek
+CKG,Chongqing
+CKH,Chokurdakh
+CKL,CHKALOVSKIY
+CKO,CORNELIO PROCOPIO
+CKS,Carajas
+CKT,SARAKHS
+CKX,Chicken
+CKY,Conakry
+CKZ,CANAKKALE
+CLA,COMILLA
+CLD,San Diego McClellan-Palomar Arpt
+CLE,Cleveland Hopkins International Apt
+CLI,CLINTONVILLE
+CLJ,Cluj-Napoca
+CLL,College Station
+CLM,Port Angeles
+CLN,CAROLINA
+CLO,Cali
+CLP,Clarks Point
+CLQ,Colima
+CLT,Charlotte
+CLU,COLUMBUS MUNICIPAL
+CLV,Caldas Novas
+CLY,Calvi
+CLZ,CALABOZO
+CMA,Cunnamulla
+CMB,Bandaranaike Intl
+CMD,COOTAMUNDRA
+CME,Ciudad Del Carmen
+CMF,CHAMBERY/AIX-LES-BAINS
+CMG,Corumba
+CMH,Columbus Port Columbus Intl Apt
+CMI,Champaign
+CMJ,Qimei
+CMK,  Club Makokola
+CMN,Casablanca Mohammed V Apt
+CMP,SANTANA DO ARAGUAIA
+CMQ,CLERMONT
+CMR,COLMAR/HOUSSEN
+CMU,  Kundiawa
+CMW,Camaguey
+CMX,Hancock
+CNB,COONAMBLE
+CNC,  Poruma
+CND,Constanta
+CNF,Belo Horizonte Tancredo Neves Int Apt
+CNG,COGNAC/CHATEAUBERNARD
+CNJ,Cloncurry
+CNK,CONCORDIA/BLOSSER MUNI AIRPORT
+CNL,SINDAL
+CNM,Carlsbad
+CNN,Kannur International
+CNP,Neerlerit Inaat
+CNQ,Corrientes
+CNR,CHANARAL
+CNS,Cairns
+CNU,CHANUTE
+CNW,WACO
+CNX,Chiang Mai
+CNY,Moab
+COC,CONCORDIA/COM.J.J.PIERRESTEGUI
+COD,Cody
+COE,COEUR D ALENE AIR TERMINAL
+COF,PATRICK AFB
+COG,Mandinga
+COH,COOCH BEHAR
+COJ,COONABARABRAN
+COK,Kochi
+COL,  Coll Island
+CON,CONCORD
+COO,Cotonou
+COQ,Choibalsan
+COR,Cordoba
+COS,Colorado Springs Peterson Field
+COT,COTULLA LA SALLE CO
+COU,Columbia
+COZ,CONSTANZA
+CPA,  Cape Palmas
+CPC,San Martin de Los Andes
+CPD,Coober Pedy
+CPE,Campeche
+CPH,Copenhagen Kastrup Apt
+CPO,Copiapo
+CPQ,CAMPINAS/AMARAIS
+CPR,Casper
+CPT,Cape Town
+CPV,Campina Grande
+CPX,Culebra
+CQD,Shahre Kord
+CQF,CALAIS/DUNKERQUE
+CQM,  Ciudad Real
+CQS,COSTA MARQUES
+CQW,Chongqing Xiannüshan
+CRA,Craiova
+CRC,Cartago
+CRD,Comodoro Rivadavia
+CRE,NORTH MYRTLE BEACH/GRAN.STRAND
+CRI,Crooked Island
+CRK,Angeles/Mabalacat
+CRL,Brussels S. Charleroi Airport
+CRM,Catarman
+CRP,Corpus Christi International Apt
+CRQ,CARAVELAS
+CRS,CARANSEBES
+CRU,CARRIACOU IS/LAURISTON
+CRV,Crotone
+CRW,Charleston
+CRZ,TURKMENABAT
+CSA,  Machrins
+CSF,CREIL
+CSG,Columbus Metropolitan Apt
+CSH,Solovetsky
+CSI,CASINO
+CSK,Cap Skiring
+CSM,CLINTON-SHERMAN
+CSO,Magdeburg
+CSU,Santa Cruz do Sul
+CSV,CROSSVILLE MEM WHITSON FLD
+CSX,Changsha
+CSY,Cheboksary
+CTA,Catania
+CTB,CUT BANK MUNI
+CTC,Catamarca
+CTD,  Chitre Alonso Valderrama
+CTE,  Carti
+CTG,Cartagena
+CTL,Charleville
+CTM,Chetumal
+CTN,COOKTOWN
+CTO,CALVERTON/NAVAL WEAPONS INDUS.
+CTS,Sapporo New Chitose Apt
+CTT,LE CASTELLET
+CTU,Chengdu
+CTY,CROSS CITY
+CTZ,CLINTON/SAMPSON
+CUA,Ciudad Constitucion
+CUC,Cucuta
+CUE,Cuenca
+CUF,Cuneo
+CUG,CUDAL
+CUK,Caye Caulker
+CUL,Culiacan
+CUM,CUMANA
+CUN,Cancun
+CUP,CARUPANU
+CUQ,Coen
+CUR,Curacao
+CUT,CUTRALCO
+CUU,Chihuahua
+CUZ,Cuzco
+CVG,Cincinnati Northern Kentucky Intl Apt
+CVJ,CUERNAVACA
+CVM,Ciudad Victoria
+CVN,Clovis Municipal Apt
+CVQ,CARNAVON
+CVS,CANNON AFB/CLOVIS
+CVT,COVENTRY
+CVU,Corvo Island
+CWA,Wausau Central Wisconsin Apt
+CWB,Curitiba Afonso Pena
+CWC,Chernivtsi
+CWF,LAKE CHARLES CHENNAULT INTL
+CWJ,Cangyuan Washan
+CWL,Cardiff
+CWT,COWRA
+CWW,COROWA
+CXA,CAICARA
+CXB,Cox's Bazar
+CXF,Coldfoot
+CXH,Vancouver Coal Harbour SPB
+CXI,Kiritimati
+CXJ,Caxias Do Sul
+CXP,Tunggul Wulung
+CXR,Nha Trang Cam Ranh Airport
+CXT,CHARTERS TOWERS
+CYA,Antoine-Simon
+CYB,Cayman Brac
+CYC,  Caye Chapel
+CYF,Chefornak
+CYI,CHIAYI/JIAYI
+CYO,Cayo Largo del Sur
+CYP,Calbayog
+CYR,COLONIA
+CYS,Cheyenne Municipal Apt
+CYU,  Cuyo
+CYW,  Celaya
+CYX,Chersky
+CYZ,Cauayan
+CZA,CHICHEN ITZA
+CZE,Coro
+CZF,CAPE ROMANZOF LRRS AIRPORT
+CZH,Corozal
+CZJ,Corazon de Jesus
+CZL,Constantine
+CZM,Cozumel
+CZN,  Chisana
+CZS,Cruzeiro Do Sul
+CZU,  Corozal
+CZW,CZESTOCHOWA RUDNIKI
+CZX,Changzhou
+DAB,Daytona Beach
+DAC,Dhaka
+DAD,Da Nang
+DAG,BARSTOW DAGGETT
+DAK,DAKHLA
+DAL,Dallas/Fort Worth Love Field
+DAM,Damascus
+DAN,DANVILLE REGIONAL
+DAR,Dar es Salaam
+DAT,Datong
+DAU,Daru
+DAV,David
+DAX,Dazhou
+DAY,Dayton Intl Apt
+DBA,Dalbandin
+DBB,AL ALAMAIN
+DBC,Baicheng Chang'an
+DBO,Dubbo
+DBQ,Dubuque
+DBR,Darbhanga
+DBU,Dambula
+DBV,Dubrovnik
+DBY,DALBY ARP
+DCA,Washington Ronald Reagan National Apt
+DCF,CANEFIELD
+DCI,DECIMOMANNU
+DCM,Castres
+DCN,Derby
+DCY,Daocheng
+DDC,Dodge City
+DDD,Dhaalu
+DDG,Dandong
+DEA,Dera Ghazi Khan
+DEB,Debrecen
+DEC,Decatur
+DED,Dehra Dun
+DEE,Yuzhno-Kurilsk
+DEF,Dezful
+DEL,Delhi
+DEN,Denver Intl Apt
+DET,DETROIT COLEMAN A.YOUNG MUNI
+DEX,Nop Goliat Dekai
+DEZ,DEIR ZZOR
+DFW,Dallas/Fort Worth Intl Apt
+DGA,Dangriga
+DGE,Mudgee
+DGH,Deoghar
+DGO,Durango
+DGT,Dumaguete
+DGX,ST. ATHAN
+DHA,KING ABDULAZIZ AIR BASE DHARAN
+DHB,Deer Harbor
+DHF,AL DHAFRA
+DHI,Dhangarhi
+DHM,Dharamsala
+DHN,Dothan
+DHR,DEN HELDER/DE KOOY
+DHT,DALHART MUNI
+DIB,Dibrugarh
+DIE,Antsiranana
+DIG,Deqen
+DIJ,Dijon
+DIK,Dickinson
+DIL,Dili
+DIN,Dien Bien Phu
+DIO,  Diomede
+DIQ,DIVINOPOLIS
+DIR,Dire Dawa
+DIU,Diu
+DIW,Dicwella SPB
+DIY,Diyarbakir
+DJB,Jambi
+DJE,Djerba
+DJG,Djanet
+DJJ,Jayapura
+DKA,Katsina
+DKB,DE KALB
+DKO,DAKOVICA/AMIKO
+DKR,Dakar
+DKS,DIKSON
+DLA,Douala
+DLC,Dalian
+DLE,Dole
+DLF,LAUGHLIN AFB/AIRPORT
+DLG,Dillingham
+DLH,Duluth International Apt
+DLI,Dalat
+DLM,Dalaman
+DLS,COLUMBIA GORGE RGNL/DALLES MUN
+DLU,Dali
+DLY,Dillons Bay
+DLZ,Dalanzadgad
+DMA,DAVIS MONTHAN AFB
+DMB,Taraz
+DMD,Doomadgee Mission
+DME,Moscow Domodedovo Apt
+DMK,Bangkok Don Mueang International Arpt
+DMM,Dammam
+DMN,DEMING MUNI AIRPORT
+DMT,DIAMANTINA
+DMU,Dimapur
+DNA,KADENA
+DND,Dundee
+DNH,Dunhuang
+DNK,Dnipropetrovsk
+DNQ,DENILIQUIN
+DNR,Dinard/St-Malo
+DNV,DANVILLE/VERMILION COUNTY APT
+DNX,DINDER/GALEGU
+DNZ,Denizli
+DOB,Dobo
+DOD,DODOMA
+DOG,DONGOLA
+DOH,Doha
+DOK,Donetsk
+DOL,Deauville
+DOM,Dominica Melville Hall Apt
+DOP,  Dolpa
+DOU,Dourados
+DOV,DOVER AFB
+DOY,Dongying
+DPA,CHICAGO - DUPAGE
+DPL,Dipolog
+DPO,Devonport
+DPS,Denpasar-Bali
+DPT,Deputatsky
+DQA,Daqing
+DQM,Duqm Jaaluni Airport
+DRA,MERCURY DESERT ROCK
+DRB,DERBY
+DRG,Deering
+DRK,Drake Bay
+DRO,Durango La Plata Apt
+DRP,Bicol
+DRS,Dresden
+DRT,DEL RIO INTL
+DRV,Dharavandhoo Island
+DRW,Darwin International
+DSA,Doncaster/Sheffield
+DSE,Combolcha
+DSK,Dera Ismail Khan
+DSM,Des Moines
+DSN,Ordos
+DSS,Blaise Diagne
+DTB,Silangit
+DTD,Datadawai
+DTE,DAET
+DTI,Diamantina
+DTM,Dortmund
+DTU,Wudalianchi Dedu
+DTW,Detroit Wayne County
+DUB,Dublin
+DUC,HALLIBURTON FLD
+DUD,Dunedin
+DUE,Dundo
+DUG,DOUGLAS/BISBEE-DOUGLAS
+DUJ,Dubois
+DUM,Pinang Kampai
+DUR,Durban King Shaka International Apt
+DUS,Duesseldorf International Airport
+DUT,Dutch Harbor
+DVD,Andavadoaka
+DVK,DIAVIK DIAMOND MINE
+DVL,Devils Lake
+DVO,Davao
+DWB,  Soalala
+DWC,Dubai Al Maktoum Intl
+DWD,Dawadmi
+DXB,Dubai International
+DXJ,Xiangxi Biancheng
+DYA,DYSART
+DYG,Zhangjiajie
+DYR,Anadyr
+DYS,DYESS AFB
+DYU,Dushanbe
+DZA,Dzaoudzi
+DZH,Dazhou Jinya
+DZN,Zhezkazgan
+DZO,DURAZNO/SANTA BERNARDINA
+EAA,Eagle
+EAE,Emae
+EAL,Kwajalein Atoll MH
+EAM,Nejran
+EAR,Kearney
+EAS,San Sebastian
+EAT,Wenatchee
+EAU,Eau Claire
+EBA,MARINA DI CAMPO
+EBB,Entebbe
+EBD,EL OBEID
+EBH,El Bayadh
+EBJ,Esbjerg Airport
+EBL,Erbil
+EBM,EL BORMA
+EBO,XXX
+EBU,St-Etienne
+ECA,EL CALAFATE
+ECG,ELISABETH CITY CGAS
+ECH,ECHUCA
+ECN,Ercan
+ECP,Panama City NW Florida Beaches Intl
+EDA,Edna Bay
+EDB,DEBBA
+EDF,ANCHORAGE ELMENDORF AFB
+EDI,Edinburgh
+EDL,Eldoret
+EDM,LA ROCHE SUR YON/LES AJONCS
+EDO,BALIKESIR/KOERFEZ
+EDR,Pormpuraaw
+EDW,EDWARDS AFB
+EEA,Planalto Serrano Regional
+EED,NEEDLES
+EEK,Eek
+EFD,HOUSTON/ELLINGTON FIELD
+EFG,  Efogi
+EFL,Kefallinia
+EGC,Bergerac
+EGD,BOSCOMBE DOWN
+EGE,Vail/Eagle County Apt
+EGM,Seghe
+EGN,Geneina
+EGO,Belgorod
+EGS,Egilsstadir
+EGV,  Eagle River
+EGX,Egegik
+EHL,EL BOLSON
+EHM,CAPE NEWENHAM
+EHU,Ezhou Huahu Airport
+EIE,  Yeniseysk
+EIK,Eisk
+EIL,EIELSON AFB/FAIRBANKS
+EIN,Eindhoven Airport
+EIS,Beef Island
+EJA,Barrancabermeja
+EJH,Wedjh
+EJN,Ejin Banner Taolai
+EJT,XXX
+EKA,EUREKA
+EKB,EKIBASTUZ
+EKI,ELKHART
+EKN,ELKINS
+EKO,Elko
+EKS,Shakhtersk
+EKT,ESKILSTUNA
+ELC,Elcho Island
+ELD,El Dorado
+ELF,El Fasher
+ELG,El Golea
+ELH,North Eleuthera
+ELI,Elim
+ELM,Elmira/Corning
+ELO,ELY MUNI
+ELP,El Paso International Apt
+ELQ,Gassim
+ELS,East London
+ELT,EL TOR
+ELU,El Oued
+ELV,Elfin Cove
+ELY,ELY AIRPORT YELLAND FIELD
+EMA,Nottingham East Midlands Airport
+EMD,Emerald
+EME,EMDEN
+EMK,Emmonak
+EML,EMMEN
+EMN,Néma
+EMP,EMPORIA MUNI
+ENA,Kenai
+ENC,NANCY/ESSEY
+ENE,Ende
+ENF,ENONTEKIO
+ENH,Enshi
+ENI,  El Nido
+ENK,ENNISKILLEN/ST ANGELO
+ENL,CENTRALIA MUNI
+ENN,NENANA
+ENO,MARIANO MORENO
+ENQ,CORONEL ENRIQUE SOTO CANO AB
+ENS,ENSCHEDE/TWENTHE
+ENT,ENEWETAK AUX AAF
+ENU,Enugu
+ENV,WENDOVER
+ENY,Yan'an
+EOH,Medellin Enrique Olaya Herrerra Apt
+EOI,Eday
+EOR,EL DORADO
+EOZ,  Elorza
+EPA,El Palomar
+EPH,EPHRATA MUNI
+EPL,Epinal
+EPR,Esperance
+EPU,P rnu
+EQS,Esquel
+ERC,Erzincan
+ERF,Erfurt
+ERH,ERRACHIDIA MOULAY ALI CHERIF
+ERI,Erie
+ERL,Erenhot
+ERM,Erechim
+ERN,Eirunepe
+ERS,Windhoek Eros Apt
+ERZ,Erzurum
+ESB,Ankara Esenboga Apt
+ESC,Escanaba
+ESD,Eastsound
+ESE,ENSENADA
+ESF,ALEXANDRIA ESLER REGIONAL
+ESH,SHOREHAM
+ESK,ESKISEHIR
+ESL,Elista
+ESM,Esmeraldas
+ESR,EL SALVADOR/RICARDO GARCIA P.
+ESS,Essendon
+ESU,Essaouira
+ETH,Eilat
+ETM,Ramon
+ETR,Santa Rosa
+ETZ,Metz/Nancy Lorraine
+EUA,  Eua
+EUG,Eugene
+EUN,Laayoune
+EUQ,Evelio Javier
+EUX,St Eustatius
+EVE,Harstad-Narvik
+EVG,Sveg
+EVN,Yerevan
+EVV,Evansville
+EVX,EVREUX/FAUVILLE
+EWB,New Bedford
+EWD,Wildman Lake
+EWN,New Bern
+EWR,New York Newark Liberty International Apt
+EXI,Excursion Inlet
+EXT,Exeter
+EYK,Beloyarsky
+EYP,El Yopal
+EYW,Key West International Apt
+EZE,Buenos Aires Ministro Pistarini
+EZS,Elazig
+EZV,Berezovo
+F47,APALACHICOLA / ST. GEORGE ISL
+FAA,FARANAH
+FAB,FARNBOROUGH
+FAC,Faaite
+FAE,Faroe Islands
+FAH,Farah
+FAI,Fairbanks International Apt
+FAK,FAKARAVA
+FAN,FARSUND/LISTA
+FAO,Faro
+FAR,Fargo
+FAT,Fresno Yosemite International Airport
+FAU,Fahud
+FAV,Fakarava
+FAY,Fayetteville Municipal Apt
+FBA,Fonte Boa
+FBD,Faizabad
+FBE,Francisco Beltrao
+FBK,FAIRBANKS/FORT WAINWRIGHT AAF
+FBM,Lubumbashi
+FBS,Friday Harbor SPB
+FCA,Kalispell
+FCN,NORDHOLZ
+FCO,Rome Fiumicino Apt
+FCS,BUTTS ARMY AFLD FT CARSON
+FDE,Forde
+FDF,Fort de France
+FDH,Friedrichshafen
+FDK,FREDERICK MUNI
+FDY,FINDLAY
+FEC,FEIRA DE SANTANA/J.D.CARNEIRO
+FEG,Fergana
+FEL,FUERSTENFELDBRUCK
+FEN,Fernando De Noronha
+FEP,FREEPORT ALBERTUS
+FEZ,Fes
+FFD,FAIRFORD (RAF)
+FGD,FDERIK
+FGU,Fangatau
+FHU,FORT HUACHUCA/SIERRA VISTA
+FHZ,Fakahina
+FIE,Fair Isle Airport
+FIH,Kinshasa N'Djili Intl Apt
+FJR,Fujairah
+FKB,Karlsruhe/Baden-Baden Baden Airpark
+FKI,Kisangani
+FKJ,FUKUI
+FKL,Franklin Chess Lamberton Apt
+FKQ,Fak Fak
+FKS,Fukushima
+FLA,Florencia
+FLB,FLORIANO/CANGAPARA
+FLG,Grand Canyon Pulliam Field Airport
+FLL,Fort Lauderdale/Hollywood Intl Apt
+FLN,Florianopolis
+FLO,Florence
+FLR,Florence
+FLS,Flinders Island
+FLV,FT LEAVENWORTH SHERMAN AAF
+FLW,Flores Island
+FLZ,Ferdinand Lumban Tobing
+FMA,Formosa
+FMH,FALMOUTH/OTIS AFB
+FMI,Kalemie
+FMM,Memmingen
+FMN,Farmington
+FMO,Muenster/Osnabrueck
+FMY,FT MYERS PAGE FLD
+FNA,Freetown Lungi International Apt
+FNB,NEUBRANDENBURG
+FNC,Funchal
+FND,Funadhoo
+FNE,  Fane
+FNI,Nimes
+FNJ,Pyongyang
+FNL,  Fort Collins/Loveland
+FNT,Flint
+FOA,FLORA MUNI
+FOC,Fuzhou
+FOD,Fort Dodge
+FOE,TOPEKA FORBES
+FOG,Foggia
+FOM,FOUMBAN
+FON,Fortuna
+FOR,Fortaleza
+FOS,FORREST
+FPM,MELUN/VILLAROCHE
+FPO,Freeport
+FPR,FT PIERCE ST LUCIE CO INTL
+FRA,Frankfurt International Apt
+FRB,FORBES
+FRC,FRANCA
+FRD,Friday Harbor
+FRE,Fera Island
+FRG,FARMINGDALE/REPUBLIC
+FRL,FORLI
+FRO,Floro
+FRS,Flores
+FRU,Bishkek
+FRW,Francistown
+FRZ,FRITZLAR
+FSC,Figari
+FSD,Sioux Falls
+FSK,FORT SCOTT MUNI
+FSM,Fort Smith
+FSP,St Pierre
+FSS,KINLOSS
+FSZ,Shizuoka
+FTA,Futuna Island
+FTE,El Calafate
+FTG,FRONT RANGE DENVER
+FTK,GODMAN AAF (FT. KNOX)
+FTU,Tolanaro
+FTW,FORT WORTH/MEACHAM INTL
+FTY,ATLANTA/FULTON COUNTY
+FUE,Fuerteventura
+FUG,Fuyang
+FUJ,Fukue
+FUK,Fukuoka
+FUN,Funafuti
+FUO,Foshan
+FUT,Futuna
+FVM,Fuvahmulak Island
+FWA,Fort Wayne Baer Field
+FWC,FAIRFIELD MUNI
+FWH,CARSWELL AFB
+FXE,FORT LAUDERDALE EXECUTIVE
+FYJ,Fuyuan Dongji
+FYN,Fuyun Koktokay
+FYT,FAYA LARGEAU
+FYU,Fort Yukon
+FYV,FAYETTEVILLE DRAKE FLD
+FZO,BRISTOL/FILTON
+GAD,NE ALABAMA RGNL AIRPORT
+GAE,GABES
+GAF,GAFSA/KSAR
+GAH,GAYNDAH
+GAJ,Yamagata
+GAL,Galena
+GAM,Gambell
+GAN,Gan Island
+GAO,Guantanamo Los Canos Apt
+GAQ,GAO
+GAS,Garissa
+GAU,Guwahati
+GAX,  Gamba
+GAY,Gaya
+GBB,Gabala
+GBD,Great Bend
+GBE,Gaborone
+GBI,Kalaburagi
+GBJ,MARIE GALANTE
+GBT,Gorgan
+GCC,Gillette
+GCH,Gachsaran
+GCI,Guernsey
+GCJ,GRAND CENTRAL
+GCK,Garden City
+GCM,Grand Cayman Island
+GCN,GRAND CANYON/NATIONAL PARK
+GCO,CONCEPCION/CARMELO PERALTA
+GCW,Grand Canyon West
+GDB,Gondia
+GDE,Gode
+GDG,MAGDAGACHI
+GDL,Guadalajara
+GDN,Gdansk
+GDO,GUASDUALITO
+GDQ,Gonder
+GDT,Grand Turk
+GDV,Glendive
+GDX,Magadan
+GDZ,Gelendzhik
+GEA,Noumea Magenta Apt
+GEC,GECITKALE
+GEG,Spokane International Apt
+GEL,Santo Angelo
+GEO,Georgetown
+GER,Nueva Gerona
+GES,General Santos
+GET,Geraldton
+GEV,Gallivare
+GEY,SOUTH BIG HORN CO.
+GFA,GREAT FALLS/MALMSTROM AFHP
+GFF,Griffith
+GFK,Grand Forks
+GFL,GLENS FALLS FLOYD BENNETT MEML
+GFN,Grafton
+GFY,GROOTFONTEIN
+GGB,Agua Boa
+GGF,Almeirim
+GGG,Longview
+GGJ,Guaira
+GGM,Kakamega
+GGR,Garowe
+GGS,GOBERNADOR GREGORE
+GGT,George Town
+GGW,Glasgow
+GHA,Ghardaia
+GHB,Governors Harbour
+GHC,  Bullock Harbour
+GHE,Garachine
+GHF,GIEBELSTADT AAF
+GHS,West Kutai Melalan
+GHT,Ghat
+GHU,GUALEGUAYCHU
+GIB,Gibraltar
+GHV,Brasov-Ghimbav
+GIC,  Boigu Island
+GIG,Rio de Janeiro International Apt
+GII,SIGUIR
+GIL,Gilgit
+GIR,GIRARDOT / SANTIAGO VILA
+GIS,Gisborne
+GIT,Geita
+GIU,Sigiriya
+GIZ,Jizan
+GJA,Guanaja
+GJL,JIJEL/FERHAT ABBAS
+GJM,GUAJARA-MIRIM
+GJT,Grand Junction
+GKA,Goroka
+GKE,GEILENKIRCHEN
+GKK,Kooddoo Island
+GKN,GULKANA
+GLA,Glasgow International Airport
+GLD,GOODLAND RENNER FLD (GOD.MUNI)
+GLE,GAINESVILLE MUNI
+GLF,Golfito
+GLH,Greenville
+GLI,GLEN INNES
+GLK,Galcaio
+GLN,Guelmime
+GLO,Gloucester/Cheltenham
+GLS,GALVESTON INTL-SCHOLES FLD
+GLT,Gladstone
+GLU,Gelephu
+GLV,Golovin
+GLX,Gamar Malamo
+GLZ,BREDA/GILZE-RIJEN
+GMA,Gemena
+GMB,Gambela
+GME,GOMEL
+GMI,  Gasmata Island
+GML,KYIV/ANTONOV-GOSTOMEL
+GMN,GREYMOUTH
+GMO,Gombe
+GMQ,Golog Maqin
+GMP,Seoul Gimpo International Airport
+GMR,Totegegie
+GMU,GREENVILLE DOWNTOWN
+GMZ,San Sebastian/Gomera
+GNA,GRODNO
+GNB,GRENOBLE ST GEOIRS
+GND,Grenada
+GNE,GHANZI
+GNI,LYUDAO
+GNJ,Ganja
+GNM,GUANAMBI
+GNR,GENERAL ROCA/FUERTE GRAL ROCA
+GNS,Gunung Sitoli
+GNT,GRANTS-MILAN MUNI
+GNU,Goodnews Bay
+GNV,Gainesville
+GNY,Sanliurfa
+GOA,Genoa
+GOB,Robe
+GOH,Nuuk
+GOI,Goa
+GOJ,Nizhny Novgorod
+GOM,Goma
+GON,GROTON/NEW LONDON
+GOO,GOONDIWINDI
+GOP,Gorakhpur
+GOQ,Golmud
+GOT,Goteborg Landvetter Apt
+GOU,Garoua
+GOV,Nhulunbuy
+GOX,New Goa
+GOY,GOYA
+GOZ,GORNA/ORYAHOVITSA
+GPA,ARAXOS AB
+GPB,GUARAPUAVA
+GPI,Guapi
+GPO,GENERAL PICO
+GPS,Baltra Island
+GPT,Gulfport/Biloxi
+GPZ,Grand Rapids
+GRB,Green Bay
+GRF,GRAY AAF AIRPORT FT LEWIS
+GRI,Grand Island
+GRJ,George
+GRK,Killeen Gray AAF
+GRO,Girona
+GRP,GURUPI
+GRQ,Groningen
+GRR,Grand Rapids
+GRS,GROSSETO
+GRU,Sao Paulo Guarulhos Intl Apt
+GRV,Grozny
+GRW,Graciosa Island
+GRX,Granada
+GRY,GRIMSEY
+GRZ,Graz
+GSB,GOLDSBORO/SEYMOUR JOHNSON AFB
+GSE,Goteborg City Apt
+GSM,Gheshm Island
+GSO,Greensboro/High Point
+GSP,Greenville/Spartanburg Apt
+GSQ,SHARK EL-OWINAT
+GST,Gustavus Apt
+GSU,GEDAREF
+GSV,Saratov Gagarin
+GTA,Gatokae SB
+GTB,WHEELER SACK AAF
+GTE,Groote Eylandt
+GTF,Great Falls International Apt
+GTH,CAIRO WEST MIL
+GTO,Gorontalo
+GTR,Columbus Golden Triangle Regional Apt
+GTS,The Granites
+GTZ,Grumeti
+GUA,Guatemala City
+GUB,Guerrero Negro Airport
+GUC,Gunnison
+GUH,GUNNEDAH
+GUI,GUIRIA ALMIRANTE/C. COLON
+GUJ,GUARATINGUETA
+GUL,GOULBURN
+GUM,Guam Antonio B Won Pat International
+GUP,GALLUP MUNI
+GUQ,GUANARE
+GUR,Alotau
+GUT,GUTERSLOH
+GUW,Atyrau
+GUY,GUYMON MUNI
+GUZ,GUARAPARI
+GVA,Geneva
+GVE,GORDONSVILLE MUNI
+GVN,Sovetskaya Gavan
+GVR,Governador Valadares
+GVT,GREENVILLE MAJORS
+GVX,GAVLE
+GWD,Gwadar
+GWE,GWERU/THORNHILL
+GWL,Gwalior
+GWO,GREENWOOD/LEFLORE
+GWT,Westerland
+GWY,GALWAY
+GXF,Sayun
+GXG,NEGAGE
+GXH,Xiahe
+GXQ,COYHAIQUE/TENIENTE VIDAL
+GYA,Guayaramerin
+GYD,Baku Heydar Aliyev International Apt
+GYE,Guayaquil
+GYH,DONALDSON CENTER AIRPORT
+GYI,  Gisenyi
+GYL,ARGYLE
+GYM,GUAYMAS
+GYN,Goiania
+GYP,GYMPIE
+GYR,PHOENIX GOODYEAR
+GYS,Guangyuan
+GYU,Guyuan Liupanshan
+GYY,GARY/CHICAGO INTL
+GZA,GAZA INTL
+GZG,Garze Gesar
+GZO,Gizo
+GZP,Gazipasa
+GZT,Gaziantep
+HAA,Hasvik
+HAC,Hachijojima
+HAD,Halmstad
+HAE,  Supai Village
+HAH,Moroni Prince Said Ibrahim
+HAJ,Hannover
+HAK,Haikou
+HAM,Hamburg Airport
+HAN,Hanoi
+HAQ,Hanimaadhoo Island
+HAS,Hail
+HAU,Haugesund
+HAV,Havana
+HAW,HAVERFORDWEST
+HBA,Hobart
+HBE,Alexandria Borg el Arab
+HBQ,Anyang Hongqiqu
+HBR,HOBART
+HBU,Bulgan (Khovd)
+HBX,Hubli
+HCJ,Hechi Jinchengjiang
+HCN,Haibei Qilian
+HCQ,HALLS CREEK
+HCR,Holy Cross
+HCZ,Chenzhou Beihu
+HDB,HEIDELBERG AAF
+HDD,HYDERABAD
+HDF,HERINGSDORF
+HDG,Handan
+HDK,Kulhudhuffushi
+HDM,HAMADAN
+HDN,Hayden
+HDO,Ghaziabad Hindon
+HDS,Hoedspruit
+HDY,Hat Yai
+HEA,Herat
+HEH,Heho
+HEI,  Heide-B sum
+HEK,Heihe
+HEL,Helsinki-Vantaa
+HEM,HELSINKI/MALMI
+HEN,Helsinki Heliport
+HER,Heraklion
+HET,Hohhot
+HEW,ATHENS/CENTRAL
+HEZ,HARDY-ANDERS FLD/NATCHEZ-ADAMS
+HFA,HAIFA
+HFD,HARTFORD BRAINARD
+HFE,Hefei
+HFN,HOFN/HORNAFFJOROUR
+HFS,Hagfors
+HFT,Hammerfest
+HGA,Hargeisa
+HGD,Hughenden
+HGH,Hangzhou
+HGI,Donyi Polo
+HGL,HELGOLAND-DUENE
+HGN,Mae Hong Son
+HGO,Korhogo
+HGR,Hagerstown
+HGU,Mount Hagen
+HHA,  Changsha
+HHE,HACHINOHE
+HHH,Hilton Head Island
+HHN,Frankfurt Hahn Airport
+HHP,H K Heliport
+HHQ,Hua Hin
+HHR,NORTHROP/HAWTHORNE MUNICIPAL
+HHZ,Hikueru
+HIA,Huai'an
+HIB,Hibbing/Chisholm
+HID,Horn Island
+HIF,OGDEN/HILL AFB
+HIJ,Hiroshima
+HIK,HICKAM
+HIL,  Shilabo
+HIN,Jinju
+HIO,PORTLAND/HILLSBORO
+HIR,Honiara
+HIS,  Hayman Island
+HIW,HIROSHIMANISHI
+HIX,HIVA-HOA
+HJJ,Huaihua
+HJR,Khajuraho
+HKB,Healy Lake
+HKD,Hakodate
+HKG,Hong Kong International Apt
+HKK,Hokitika
+HKN,Hoskins
+HKT,Phuket
+HKY,HICKORY REGIONAL
+HLA,Johannesburg Lanseria International Apt
+HLC,HILL CITY MUNI
+HLD,Hailar
+HLE,Saint Helena
+HLF,HULTSFRED-VIMMERBY
+HLG,WHEELING OHIO CO
+HLH,Ulanhot
+HLN,Helena
+HLP,Jakarta Halim Perdanakusuma Apt
+HLT,Hamilton
+HLU,HOUAILOU-NESSON
+HLZ,Hamilton
+HMA,Khanty-Mansiysk
+HMB,Sohag
+HME,Hassi Messaoud
+HMI,Hami
+HMJ,  Khmelnitskiy
+HMN,HOLLOMAN AFB
+HMO,Hermosillo
+HMS,Haji Muhammad Sidik
+HMV,Hemavan/Tarnaby
+HNA,Hanamaki
+HND,Tokyo Intl (Haneda)
+HNH,Hoonah
+HNL,Honolulu International Apt
+HNM,Hana
+HNY,Hengyang Nanyue
+HNS,Haines
+HOB,Hobbs Lea County Apt
+HOD,Hodeidah
+HOE,Houeisay
+HOF,Hofuf
+HOG,Holguin
+HOH,HOHENEMS/DORNBIRN
+HOI,Hao
+HOM,Homer
+HON,Huron
+HOP,CAMPBELL AAF (FT CAMPBELL)
+HOQ,HOF-PLAUEN
+HOR,Horta
+HOT,Hot Springs
+HOU,Houston Hobby Apt
+HOV,Orsta/Volda
+HOX,Homalin
+HPA,HA APAI
+HPB,Hooper Bay
+HPG,Shennongjia Hongping
+HPH,Haiphong
+HPN,Westchester County
+HQM,HOQUIAM/BOWERMAN
+HQL,Tashkurgan Khunjerab
+HQQ,Anyang Hongqiqu
+HRB,Harbin
+HRE,Harare
+HRF,Hoarafushi
+HRG,Hurghada
+HRI,Hambantota
+HRK,Kharkiv
+HRL,Harlingen
+HRM,HASSI RMEL
+HRO,Harrison
+HRR,HERRERA INTL
+HSA,Aziret Sultan
+HSC,Shaoguan Danxia
+HSB,HARRISBURG-RALEIGH
+HSE,HATTERAS BILLY MITCHELL
+HSG,Saga
+HSI,HASTINGS MUNI
+HSK,  Huesca
+HSL,Huslia
+HSM,HORSHAM
+HSN,Zhoushan
+HSR,Rajkot
+HST,HOMESTEAD
+HSV,Huntsville International Airport
+HSZ,HSINCHU
+HTA,Chita
+HTG,KHATANGA
+HTI,Hamilton Island
+HTL,HOUGHTON LAKE ROSCOMMON CO
+HTM,Khatgal
+HTN,Hotan
+HTS,Huntington
+HTT,Huatugou
+HTY,Hatay
+HUA,REDSTONE AAF(REDSTONE ARSENAL)
+HUE,Humera
+HUF,TERRE HAUTE INTL-HULMAN FLD
+HUH,Huahine
+HUI,Hue
+HUL,HOULTON
+HUN,Hualien
+HUO,  Holingol Huolinhe
+HUQ,  Houn
+HUS,Hughes
+HUT,HUTCHINSON MUNI-BUTLER FLD ARP
+HUU,Huanuco
+HUV,HUDIKSVAL
+HUW,Humaita
+HUX,Huatulco
+HUY,Humberside
+HUZ,Huizhou Pingtan
+HVA,  Analalava
+HVB,Hervey Bay
+HVD,Khovd
+HVG,Honningsvag
+HVN,New Haven
+HVR,Havre
+HWD,HAYWARD EXECUTIVE
+HWN,HWANGE NATIONAL PARK
+HXD,Delingha
+HXX,HAY
+HYA,Hyannis
+HYD,Hyderabad Rajiv Gandhi Intl Arpt
+HYG,Hydaburg
+HYL,Hollis
+HYN,Taizhou
+HYS,Hays
+HZA,Heze Mudan
+HZB,MERVILLE/CALONNE
+HZD,HOLZDORF
+HZG,  Hanzhong
+HZH,Liping
+HZK,HUSAVIK
+IAA,Igarka
+IAB,MC CONNELL AFB
+IAD,Washington Dulles International Apt
+IAG,Niagara Falls
+IAH,Houston George Bush Intercontinental Ap
+IAM,In Amenas
+IAN,Kiana
+IAO,Siargao
+IAR,Yaroslavl
+IAS,Iasi
+IBA,Ibadan
+IBE,Ibague
+IBL,Indigo Bay Lodge
+IBR,Ibaraki
+IBZ,Ibiza
+ICA,ICABARU
+ICI,Cicia Island
+ICK,NIEUW NICKERIE/MAJ. FERNANDES
+ICN,Seoul Incheon International Airport
+ICO,Sicogon
+ICR,NICARO
+ICT,Wichita Mid-Continent Apt
+IDA,Idaho Falls
+IDB,IDRE
+IDO,CRISTALANDIA/STA ISABEL DO MOR
+IDR,Indore
+IEG,ZIELONA GORA/BABIMOST
+IEJ,IEJIMA
+IEV,Kiev Zhuliany Intl Apt
+IFJ,Isafjordur
+IFL,INNISFAIL
+IFN,Esfahan
+IFO,Ivano-Frankivsk
+IFP,LAUGHLIN BULLHEAD INTL
+IFU,Ifuru
+IGA,Inagua
+IGD,Igdir
+IGG,Igiugig
+IGH,INGHAM
+IGL,IZMIR/CIGLI
+IGM,Kingman
+IGN,ILIGAN
+IGQ,LANSING MUNI CHICAGO
+IGR,Iguazu
+IGS,INGOLSTADT MANCHING
+IGT,Magas
+IGU,Foz do Iguacu
+IHR,Iran Shahr
+IIA,INISHMAAN
+IIL,Ilam
+IIS,  Nissan Island
+IJK,Izhevsk
+IJX,JACKSONVILLE MUNI
+IKA,Tehran Imam Khomeini International Apt
+IKE,Ikerasak
+IKI,Iki
+IKK,KANKAKEE GREATER KANKAKEE
+IKO,Nikolski
+IKS,Tiksi
+IKT,Irkutsk
+IKU,Issyk-Kul
+IKV,ANKENY REGL
+ILA,ILOPANGO INTL
+ILB,PEREIRA BARRETO/ILHA SOLTEIRA
+ILD,Lleida
+ILF,ILFORD
+ILG,Wilmington Greater Wilmington Apt
+ILI,Iliamna
+ILM,Wilmington
+ILN,WILMINGTON AIRBORNE PARK
+ILO,Ilo-Ilo
+ILP,Ile des Pins
+ILQ,ILO
+ILR,Ilorin
+ILU,Kilaguni
+ILY,Islay
+ILZ,ZILINA
+IMF,Imphal
+IMK,  Simikot
+IML,IMPERIAL MUNI
+IMO,OWERRI
+IMP,Imperatriz
+IMT,Iron Mountain
+INA,Inta Airport
+INB,Independence
+INC,Yinchuan
+IND,Indianapolis
+INE,AGADIR/INEZGANE
+INF,IN GUEZZAM
+INH,Inhambane
+INI,NIS
+INK,WINKLER CO
+INL,International Falls
+INN,Innsbruck
+INT,WINSTON SALEM SMITH REYNOLDS
+INU,Nauru Island
+INV,Inverness
+INW,WINSLOW
+INZ,In Salah
+IOA,Ioannina
+IOM,Isle Of Man
+ION,  Impfondo
+IOQ,Isortoq
+IOS,Ilheus
+IOT,Illorsuit
+IPA,Ipota
+IPC,Easter Island
+IPG,SANTO ANTONIO DO ICA
+IPH,Ipoh
+IPI,Ipiales
+IPJ,LINCOLTON CO REGIONAL
+IPL,Imperial County Apt
+IPN,Ipatinga
+IPT,Williamsport
+IPU,IPIAU
+IQA,AL ASAD AB
+IQM,  Qiemo
+IQN,Qingyang
+IQQ,Iquique
+IQT,Iquitos
+IRA,Kirakira
+IRC,Circle
+IRD,ISHURDI
+IRE,IRECE
+IRG,Lockhart River
+IRI,  Iringa
+IRJ,La Rioja
+IRK,Kirksville
+IRM,Igrim
+IRN,NOSHAHR
+IRO,BIRAO
+IRP,Isiro
+IRZ,Santa Isabel Rio Negro
+ISA,Mount Isa
+ISB,Islamabad
+ISC,Isles of Scilly St Mary's Apt
+ISE,Isparta
+ISG,New Ishigaki
+ISI,ISISFORD
+ISK,  Nasik
+ISM,KISSIMMEE GATEWAY A/P ORLANDO
+ISN,Williston
+ISO,KINGSTON RGNL JETPORT
+ISP,Long Island MacArthur
+IST,Istanbul Airport
+ISU,Sulaymaniyah
+ITA,ITACOATIARA
+ITB,Itaituba
+ITH,Ithaca
+ITK,  Itokama
+ITM,Osaka Intl (Itami)
+ITN,ITABUNA
+ITO,Hilo
+ITR,ITUMBIARA/HIDROELECTRICA
+ITU,Iturup
+IUE,Niue
+IUI,Innarsuit
+IUP,Apui
+IVC,Invercargill
+IVL,Ivalo
+IVR,INVERELL
+IWA,Ivanovo
+IWD,Ironwood
+IWJ,Masuda
+IWK,Iwakuni
+IWO,IWOJIMA
+IXA,Agartala
+IXB,Bagdogra
+IXC,Chandigarh
+IXD,Allahabad
+IXE,Mangalore
+IXG,Belgaum
+IXH,KAILASHAHAR
+IXI,NORTH LAKHIMPUR/LILABARI
+IXJ,Jammu
+IXK,KESHOD/JUNAGADH
+IXL,Leh
+IXM,Madurai
+IXN,KHOWAI
+IXP,  Pathankot
+IXQ,KAMALPUR
+IXR,Ranchi
+IXS,Silchar
+IXT,PASIGHAT
+IXU,Aurangabad
+IXW,JAMSHEDPUR
+IXX,Bidar
+IXY,KANDLA/GANDHIDHAM
+IXZ,Port Blair
+IYK,Inyokern
+IZA,Juiz De Fora
+IZT,Ixtepec
+IZO,Izumo
+JAA,JALALABAD
+JAB,JABIRU
+JAC,Jackson
+JAD,PERTH/JANDAKOT
+JAE,Shumba
+JAF,KANKESANTURAI/JAFFNA
+JAG,JACOBABAD
+JAI,Jaipur
+JAL,Jalapa
+JAN,Jackson-Evers International Airport
+JAQ,  Jacquinot Bay
+JAR,Jahrom
+JAU,Jauja
+JAV,Ilulissat
+JAW,Araripina
+JAX,Jacksonville International Apt
+JBB,Jember
+JBQ,Higuero
+JBR,Jonesboro
+JCA,  Cannes
+JCB,Joacaba
+JCH,Qasigiannguit
+JCK,Julia Creek
+JCM,JACOBINA
+JCR,JACAREACANGA
+JCT,JUNCTION KIMBLE CO
+JCU,Ceuta
+JDF,Juiz De Fora
+JDH,Jodhpur
+JDN,JORDAN
+JDO,Juazeiro Do Norte
+JDR,Sao Joao Del Rei
+JDZ,Jingdezhen
+JED,Jeddah
+JEE,Jérémie
+JEG,Aasiaat
+JEJ,  Jeh
+JEK,  Jeki Airstrip
+JEQ,JEQUIE
+JER,Jersey
+JFK,New York J F Kennedy International Apt
+JFR,Paamiut
+JGA,Jamnagar
+JGB,Jagdalpur
+JGC,Grand Canyon H/P
+JGD,Jiagedaqi
+JGN,Jiayuguan
+JGO,Qeqertarsuaq
+JGS,Jinggangshan
+JHB,Johor Bahru
+JHG,Jinghong
+JHM,Kapalua
+JHS,Sisimiut
+JHW,Jamestown
+JIA,Juina Airport
+JIB,Djibouti
+JIC,Jinchang
+JIJ,Jijiga
+JIK,Ikaria Island
+JIM,Jimma
+JIN,JINJA
+JIO,Jos Orno
+JIQ,Qianjian
+JIU,Jiujiang
+JJA,Jajao
+JJD,Jericoacoara
+JJG,Jaguaruna Regional Airport
+JJI,JUANJUI
+JJM,Meru-Kiina
+JJN,Quanzhou
+JJU,Qaqortoq
+JKG,Jonkoping
+JKH,Chios
+JKL,Kalymnos Island
+JKR,Janakpur
+JLN,Joplin
+JLR,Jabalpur
+JLS,JALES
+JMJ,Lancang Jingmai
+JMK,Mykonos
+JMO,  Jomsom
+JMS,Jamestown
+JMU,Jiamusi
+JNA,JANUARIA
+JNB,Johannesburg O.R. Tambo International
+JNG,Jining
+JNN,Nanortalik
+JNS,Narsaq
+JNU,Juneau
+JNX,Naxos Is
+JNZ,Jinzhou
+JOE,Joensuu
+JOG,Yogyakarta
+JOI,Joinville
+JOK,  Yoshkar-Ola
+JOL,Jolo
+JOM,NJOMBE
+JOS,Jos
+JOT,JOLIET REGIONAL
+JPA,Joao Pessoa
+JPE,Paragominas
+JPO,Patos
+JPR,JI-PARANA
+JQA,Qaarsut
+JQE,Jaque
+JQF,CONCORD REGIONAL
+JRB,  New York
+JRF,KAPOLEI/KALAELOA/JOHN ROGERS
+JRG,Jharsuguda
+JRH,Jorhat
+JRO,Kilimanjaro
+JRS,JERUSALEM
+JSA,  Jaisalmer
+JSB,Sao Benedito
+JSH,Siteia
+JSI,Skiathos
+JSJ,Jiansanjiang Shidi
+JSK,Jask Airport
+JSO,Sobral Regional
+JSR,Jessore
+JST,Johnstown
+JSU,Maniitsoq
+JSY,Syros Island
+JTC,Bauru
+JTI,JATAI
+JTR,Thira
+JTY,Astypalaia Island
+JUA,Juara Airport
+JUB,Juba
+JUH,Chizhou
+JUI,  Juist
+JUJ,Jujuy
+JUK,Ukkusissat
+JUL,Juliaca
+JUM,  Jumla
+JUU,Nuugaatsiaq
+JUV,Upernavik
+JUZ,Quzhou
+JVA,  Ankavandra
+JVR,JEVER
+JWA,JWANENG
+JWN,ZANJAN 2
+JXA,Jixi
+JXN,JACKSON/REYNOLDS FLD
+JYR,Jiroft
+JYV,Jyvaskyla
+JZH,Jiuzhaigou
+KAA,Kasama
+KAB,KARIBA
+KAC,KAMISHLY
+KAD,Kaduna
+KAE,Kake
+KAJ,Kajaani
+KAL,Kaltag
+KAN,Kano
+KAO,Kuusamo
+KAT,Kaitaia
+KAU,KAUHAVA
+KAW,Kawthaung
+KAX,  Kalbarri
+KAZ,Kau
+KBC,Birch Creek
+KBL,Kabul
+KBP,Kiev Borispol Intl Apt
+KBR,Kota Bharu
+KBT,XXX
+KBU,Kotabaru
+KBV,Krabi
+KCA,Kuqa
+KCC,Coffman Cove
+KCF,Kadanwari
+KCG,Chignik Fisheries Apt
+KCH,Kuching
+KCK,Kirensk
+KCL,Chignik Lagoon Apt
+KCM,Kahramanmaras
+KCO,Kocaeli
+KCQ,Chignik Lake Apt
+KCT,Koggala
+KCU,MASINDI
+KCZ,Kochi
+KDC,KANDI
+KDD,KHUZDAR
+KDH,Kandahar
+KDI,Kendari
+KDL,Kardla
+KDM,Kaadedhdhoo Island
+KDO,Kadhdhoo Island
+KDR,  Kandrian
+KDU,Skardu
+KDV,Kadavu Island
+KDZ,Kandy Polgolla Reservoir SPB
+KEA,Kerki
+KEB,Nanwalek
+KED,KAEDI
+KEF,Reykjavik Keflavik International Apt
+KEH,  Kenmore
+KEJ,Kemerovo
+KEK,Ekwok
+KEL,KIEL-HOLTENAU
+KEM,Kemi/Tornio
+KEO,Odienne
+KEP,Nepalganj
+KER,Kerman
+KET,Kengtung
+KEU,Keekorok
+KEV,HALLI
+KEW,Keewaywin
+KFA,KIFFA
+KFP,False Pass
+KFS,Kastamonu
+KGA,Kananga
+KGC,Kingscote
+KGD,Kaliningrad
+KGE,Kagau Island
+KGF,Karaganda
+KGG,KEDOUGOU
+KGI,Kalgoorlie-Boulder
+KGJ,KARONGA
+KGK,Koliganek
+KGL,Kigali
+KGP,KOGALYM
+KGQ,Kangersuatsiaq
+KGS,Kos
+KGT,Kangding
+KGW,  Kagi
+KGX,Grayling
+KGY,KINGAROY
+KHC,KERCH INTL
+KHD,Khorramabad
+KHE,Kherson
+KHG,Kashi
+KHH,Kaohsiung
+KHI,Karachi
+KHJ,KAUHAJOKI
+KHK,KHARK ISLAND
+KHM,  Khamti
+KHN,Nanchang
+KHQ,Kullorsuaq
+KHR,  Kharkhorin
+KHS,Khasab
+KHT,Khost
+KHV,Khabarovsk
+KHY,Khoy
+KHZ,Kauehi
+KIA,KIETA
+KID,Kristianstad
+KIE,Aropa
+KIF,Kingfisher Lake
+KIH,Kish Island
+KIJ,Niigata
+KIK,KIRKUK
+KIM,Kimberley
+KIN,Kingston Norman Manley Intl Apt
+KIO,XXX
+KIR,Kerry
+KIS,Kisumu
+KIT,Kythira
+KIW,SOUTHDOWNS KITWE
+KIX,Osaka Kansai International Airport
+KJA,Krasnoyarsk
+KJB,Kurnool
+KJH,Kaili Huangping
+KJI,Buerjin City
+KJK,KORTRIJK/WEVELGEM
+KJT,Kertajati
+KKA,Koyuk
+KKB,Kitoi Bay
+KKC,Khon Kaen
+KKD,  Kokoda
+KKE,Kerikeri
+KKH,Kongiganak
+KKI,Akiachak
+KKJ,Kitakyushu
+KKM,LOP BURI/KHOK KATHIAM
+KKN,Kirkenes
+KKQ,Krasnoselkup
+KKR,Kaukura
+KKS,Kashan International Airport
+KKU,Ekuk
+KKW,KIKWIT
+KKX,KIKAI
+KLC,KAOLACK
+KLD,TVER/MIGALOVO
+KLF,Kaluga
+KLG,Kalskag
+KLH,KOLHAPUR
+KLL,Levelock
+KLM,Kalaleh
+KLN,Larsen Bay
+KLO,Kalibo
+KLR,Kalmar
+KLU,Klagenfurt
+KLV,Karlovy Vary
+KLW,Klawock
+KLX,Kalamata
+KLZ,KLEINSEE
+KMA,  Kerema
+KMC,KING KHALED MIL CITY
+KME,Cyangugu
+KMG,Kunming
+KMI,Miyazaki
+KMJ,Kumamoto
+KMN,KAMINA
+KMO,Manokotak
+KMP,KEETMANSHOOP
+KMQ,Komatsu
+KMS,Kumasi
+KMU,Kisimayu
+KMV,Kalemyo
+KMW,KOSTROMA SOKERINO
+KMX,KHAMIS MUSHAIT/KING KHALED AB
+KMY,Moser Bay
+KNA,VINA DEL MAR
+KND,Kindu
+KNF,MARHAM
+KNG,Utarom
+KNH,Kinmen
+KNK,Kakhonak
+KNO,Kualanamu
+KNQ,Kone
+KNR,JAM/JAM
+KNS,King Island
+KNU,Kanpur
+KNW,New Stuyahok
+KNX,Kununurra
+KOA,Kona
+KOC,Koumac
+KOE,Kupang
+KOI,Kirkwall
+KOJ,Kagoshima
+KOK,Kokkola/Pietarsaari
+KOM,Komo
+KOO,Kongolo
+KOP,Nakhon Phanom
+KOS,Sihanoukville
+KOT,Kotlik
+KOU,  Koulamoutou
+KOV,Kokshetau
+KOW,Ganzhou
+KOY,Olga Bay
+KOZ,Ouzinkie
+KPB,Point Baker
+KPC,  Port Clarence
+KPN,Kipnuk
+KPO,Pohang
+KPR,Port Williams
+KPS,KEMPSEY
+KPV,Perryville
+KPW,Keperveyem
+KPY,Port Bailey
+KQA,Akutan
+KQH,Kishangarh
+KQT,Qurghonteppa
+KRB,  Karumba
+KRC,  Kerinci
+KRF,Kramfors/Solleftea
+KRG,Karagwe
+KRI,  Kikori
+KRK,Krakow
+KRL,Korla
+KRN,Kiruna
+KRO,KURGAN
+KRP,Karup
+KRR,Krasnodar
+KRS,Kristiansand Kjevik Airport
+KRT,Khartoum
+KRW,TURKMENBASHI
+KRY,Karamay
+KSA,Kosrae
+KSC,Kosice
+KSD,Karlstad
+KSE,Kasese
+KSF,KASSEL/CALDEN
+KSH,Kermanshah
+KSJ,Kasos Island
+KSK,KARLSKOGA
+KSL,KASSALA
+KSM,St Marys
+KSN,Kostanay
+KSO,Kastoria
+KSQ,Karshi
+KSR,H. Aroeppala
+KSS,SIKASSO-DIGNANGAN
+KSU,Kristiansund
+KSY,Kars
+KSZ,Kotlas
+KTA,Karratha
+KTB,Thorne Bay
+KTD,KITADAITO
+KTE,Kerteh
+KTG,Ketapang
+KTJ,Kichwa Tembo
+KTL,Kitale
+KTM,Kathmandu
+KTN,Ketchikan International Apt
+KTP,  Kingston
+KTQ,KITEE
+KTR,TINDAL
+KTS,Teller Mission
+KTT,Kittila
+KTU,KOTA
+KTW,Katowice
+KUA,Kuantan
+KUC,Kuria Airport
+KUD,Kudat
+KUF,Samara
+KUG,  Kubin Island
+KUH,Kushiro
+KUK,Kasigluk
+KUL,Kuala Lumpur International Airport
+KUM,YAKUSHIMA
+KUN,Kaunas
+KUO,Kuopio
+KUS,Kulusuk Island
+KUT,Kutaisi
+KUU,Kullu
+KUV,Gunsan
+KUZ,Kuummiut
+KVA,Kavala
+KVB,SKOEVDE
+KVC,King Cove
+KVD,Ganja
+KVG,Kavieng
+KVK,Kirovsk/Apatity
+KVL,Kivalina
+KVO,Morava
+KVR,Kavalerovo
+KVX,Kirov
+KWA,Kwajalein Island
+KWB,Dewadaru
+KWE,Guiyang
+KWF,Waterfall
+KWG,KRIVYI RIH/LOZOVATKA
+KWI,Kuwait
+KWJ,Gwangju
+KWK,Kwigillingok
+KWL,Guilin
+KWM,Kowanyama
+KWN,Quinhagak
+KWP,West Point
+KWT,Kwethluk
+KWZ,KOLWEZI
+KXB,Sangia Nibandera
+KXF,  Koro Island
+KXK,Komsomolsk-na-Amure
+KXU,Katiu
+KYA,Konya
+KYD,Lanyu
+KYE,KLEYATE RENE MOUAWAD
+KYK,Karluk
+KYP,Kyaukpyu
+KYS,KAYES/DAG-DAG
+KYU,Koyukuk
+KYZ,  Kyzyl
+KZB,Zachar Bay
+KZI,Kozani
+KZN,Kazan
+KZO,Kyzylorda
+KZR,Kutahya
+KZS,Megisti
+LAD,Luanda
+LAE,Lae
+LAF,LAFAYETTE/PURDUE UNIV
+LAH,  Labuha
+LAI,Lannion
+LAJ,LAGES
+LAK,Aklavik
+LAL,LAKELAND LINDER REGIONAL
+LAM,Los Alamos
+LAN,Lansing
+LAO,Laoag
+LAP,La Paz
+LAQ,Beida
+LAR,Laramie
+LAS,Las Vegas McCarran International Apt
+LAU,Lamu
+LAW,Lawton
+LAX,Los Angeles International Apt
+LAZ,BOM JESU DA LAPA
+LBA,Leeds Bradford
+LBB,Lubbock Preston Smith International Apt
+LBC,Hamburg Luebeck-Blankensee Airport
+LBD,Khujand
+LBE,Latrobe
+LBF,North Platte
+LBG,PARIS/LE BOURGET
+LBI,ALBI/LE SEQUESTRE
+LBJ,Labuan Bajo
+LBL,Liberal
+LBP,Long Banga
+LBR,LABREA
+LBS,Labasa
+LBU,Labuan
+LBV,Libreville
+LBX,LUBANG
+LCA,Larnaca
+LCC,GALATINA/LECCE
+LCD,MAKHADO
+LCE,La Ceiba
+LCG,A Coruna
+LCH,Lake Charles
+LCI,LACONIA MUNICIPAL
+LCJ,Lodz
+LCK,Columbus Rickenbacker Apt
+LCL,PINA DEL RIO/LA COLOMA
+LCQ,LAKE CITY MUNI
+LCR,La Chorrera
+LCX,Longyan
+LCY,London City Apt
+LDB,Londrina
+LDE,Lourdes/Tarbes
+LDG,Leshukonskoye
+LDH,Lord Howe Island
+LDK,LIDKOPING
+LDN,  Lamidanda
+LDS,Yichun
+LDU,Lahad Datu
+LDV,LANDIVISIAU
+LDY,Derry
+LDZ,Londolozi
+LEA,Learmonth
+LEB,Lebanon
+LEC,Lencois
+LED,St Petersburg Pulkovo Apt
+LEH,Le Havre
+LEI,Almeria
+LEJ,Leipzig/Halle
+LEK,LABE/TATA
+LEN,Leon
+LEP,LEOPOLDINA
+LEQ,Land's End
+LER,LEINSTER
+LET,Leticia
+LEV,  Bureta
+LEX,Lexington Blue Grass Apt
+LEY,LELYSTAD
+LFB,Lumbo
+LFI,LANGLEY AFB
+LFK,LUFKIN ANGELINA CO
+LFM,Lamerd
+LFQ,Linfen Qiaoli
+LFR,LA FRIA
+LFT,Lafayette Regional Apt
+LFW,Lome
+LGA,New York La Guardia Apt
+LGB,Long Beach Apt
+LGC,LA GRANGE-CALLAWAY
+LGG,Li ge
+LGH,LEIGH CREEK
+LGI,Deadmans Cay
+LGK,Langkawi
+LGL,Long Lellang
+LGP,Legaspi
+LGQ,Lago Agrio
+LGR,COCHRANE
+LGS,MALARGUE
+LGU,LOGAN-CACHE
+LGW,London Gatwick Apt
+LGZ,Shannan Longzi
+LHA,LAHR
+LHE,Lahore
+LHG,LIGHTNING RIDGE
+LHR,London Heathrow Apt
+LHW,Lanzhou Zhongchuan Apt
+LIC,LIMON MUNI
+LID,LEIDEN/VALKENBURG
+LIF,Lifou
+LIG,Limoges
+LIH,Kauai Island Lihue Municipal Apt
+LIK,XXX
+LIL,Lille Lesquin Airport
+LIM,Lima
+LIN,Milan Linate Apt
+LIO,LIMON INTL
+LIQ,Lisala
+LIP,LINS
+LIR,Liberia
+LIS,Lisbon
+LIT,Little Rock
+LIW,LOIKAW
+LIZ,LIMESTONE/LORING AFB
+LJA,Lodja
+LJG,Lijiang
+LJU,Ljubljana
+LKA,Gewayantana
+LKB,Lakeba Island
+LKE,Seattle Lake Union SPB
+LKG,Lokichoggio
+LKH,Long Akah
+LKI,Lasikin
+LKL,Lakselv
+LKN,Leknes
+LKO,Lucknow
+LKY,Lake Manyara
+LKZ,LAKENHEATH
+LLA,Lulea
+LLB,Libo
+LLF,Yongzhou
+LLI,Lalibela
+LLJ,Silampari
+LLK,Lankaran
+LLO,Bua
+LLU,Alluitsup Paa
+LLV,Luliang Airport
+LLW,Lilongwe
+LMA,Lake Minchumina
+LMC,Lamacarena
+LME,LE MANS/ARNAGE
+LML,XXX
+LMM,Los Mochis
+LMN,Limbang
+LMO,LOSSIEMOUTH
+LMP,Lampedusa
+LMS,LOUISVILLE-WINSTON COUNTY
+LMT,Klamath Falls
+LMU,Letung
+LMV,Madivaru
+LMY,  Lake Murray
+LNB,Lamen Bay
+LND,LANDER
+LNE,Lonorore
+LNJ,Lincang
+LNK,Lincoln
+LNL,Longnan Chengzhou
+LNO,LEONORA
+LNS,Lancaster
+LNU,Robert Atty Bessing
+LNV,Lihir Island
+LNY,Lanai City
+LNZ,Linz
+LOD,Longana
+LOE,Loei
+LOH,Loja
+LOI,LONTRAS/HELMUTH BAUNGARTEM
+LOK,Lodwar
+LOL,LOVELOCK
+LOO,Laghouat
+LOP,Praya
+LOS,Lagos
+LOT,CHICAGO/ROMEOVILLE LEWIS UNI.
+LOU,LOUISVILLE/BOWMAN FIELD
+LOV,  Monclova
+LOY,  Loiyangalani
+LOZ,LONDON-CORBIN ARPT-MAGEE FLD
+LPA,Gran Canaria
+LPB,La Paz
+LPD,La Pedrera
+LPF,Liupanshui Yuezhao
+LPG,LA PLATA
+LPI,Linkoping
+LPK,LIPETSK
+LPL,Liverpool
+LPM,Lamap
+LPP,Lappeenranta
+LPQ,Luang Prabang
+LPS,Lopez Island
+LPT,Lampang
+LPU,Long Apung
+LPX,LIEPAYA
+LPY,Le Puy
+LQM,Puerto Leguizamo
+LQN,  Qala I Naw
+LRA,LARISSA
+LRD,Laredo
+LRE,Longreach
+LRF,JACKSONVILLE/LITTLE ROCK AFB
+LRH,La Rochelle
+LRK,LINCOLN
+LRL,NIAMTOUGOU INTL
+LRM,La Romana
+LRR,Lar
+LRS,Leros
+LRT,Lorient
+LRU,LAS CRUCES INTL
+LRV,Los Roques
+LSA,Losuia
+LSC,La Serena
+LSE,La Crosse
+LSF,LAWSON AAF FORT BENNING
+LSH,Lashio
+LSI,Shetland Islands Sumburgh Apt
+LSK,LENSK
+LSP,Las Piedras
+LSQ,LOS ANGELES/MARIA DOLORES
+LSS,  Les Saintes
+LST,Launceston
+LSV,LAS VEGAS/NELLIS AFB
+LSW,Lhok Seumawe
+LSY,Lismore
+LSZ,LOSINJ
+LTA,TZANEEN
+LTB,LATROBE VALLEY
+LTD,Ghadames
+LTI,Altai
+LTK,LATAKIA/BASSEL AL-ASSAD INTL
+LTN,London Luton Apt
+LTO,Loreto
+LTQ,LE TOUQUET/PARIS PLAGE
+LTS,ALTUS AFB
+LTT,LA MOLE
+LTU,Latur
+LTX,Latacunga
+LUA,  Lukla
+LUC,  Laucala Island
+LUD,Luderitz
+LUF,GLENDALE/LUKE AFB
+LUG,Lugano
+LUH,Ludhiana
+LUK,Cincinnati Municipal Apt
+LUM,Mangshi
+LUN,Lusaka
+LUO,Luena
+LUP,  Kalaupapa
+LUQ,San Luis
+LUR,Cape Lisburne
+LUV,Langgur
+LUW,Luwuk
+LUX,Luxembourg
+LUZ,Lublin
+LVA,LAVAL/ENTRAMMES
+LVI,Livingstone
+LVM,LIVINGSTON MISSION FLD
+LVO,LAVERTON
+LVP,LAVAN ISLAND
+LVS,LAS VEGAS MUNI
+LWB,Lewisburg
+LWD,LAMONI MUNI
+LWE,Wonopito Airport
+LWM,LAWRENCE MUNI
+LWN,Gyumri
+LWO,Lviv
+LWR,LEEUWARDEN
+LWS,Lewiston
+LWT,LEWISTOWN MUNI
+LWY,Lawas
+LXA,Lhasa/Lasa
+LXG,Luang Namtha
+LXR,Luxor
+LXS,Limnos
+LXU,LUKULU
+LXV,LEADVILLE LAKE CO
+LYA,Luoyang
+LYB,Little Cayman
+LYC,Lycksele
+LYE,LYNEHAM
+LYG,Lianyungang
+LYH,Lynchburg
+LYI,Linyi
+LYN,LYON/BRON
+LYP,Faisalabad
+LYR,Longyearbyen
+LYS,Lyon St-Exupery Apt
+LYX,LYDD
+LZC,Lazaro Cardenas
+LZH,  Liuzhou
+LZG,Langzhong Gucheng
+LZN,Nangan
+LZO,Luzhou
+LZU,Lawrenceville
+LZY,Nyingchi/Linzhi
+MAA,Chennai
+MAB,Maraba
+MAD,Madrid Barajas Apt
+MAF,Midland Odessa Regional Apt
+MAG,Madang
+MAH,Menorca
+MAJ,Majuro
+MAK,MALAKAL
+MAM,Matamoros
+MAN,Manchester
+MAO,Manaus
+MAQ,Mae Sot
+MAR,Maracaibo
+MAS,Manus Island
+MAT,  Matadi
+MAU,Maupiti Island
+MAV,XXX
+MAZ,Mayaguez
+MBA,Mombasa
+MBD,MAFIKENG
+MBE,Monbetsu
+MBG,MOBRIDGE MUNI
+MBH,MARYBOROUGH
+MBI,Mbeya
+MBJ,Montego Bay
+MBL,Manistee
+MBO,MAMBURAO
+MBS,Saginaw
+MBT,Masbate
+MBU,  Mbambanakira
+MBW,MELBOURNE/MOORABBIN
+MBX,MARIBOR INTL
+MBZ,MAUES
+MCA,MACENTA
+MCB,MCCOMB/PIKE CO/JOHN E LEWIS
+MCE,Merced Macready Regional Apt
+MCF,MAC DILL AFB
+MCG,McGrath
+MCH,MACHALA/GENERAL M. SERRANO
+MCI,Kansas City International Apt
+MCK,McCook
+MCM,Monaco
+MCN,Macon Lewis B Wilson Apt
+MCO,Orlando International Apt
+MCP,Macapa
+MCS,MONTE CASEROS
+MCT,Muscat
+MCV,Mcarthur River Mine
+MCW,Mason City
+MCX,Makhachkala
+MCY,Sunshine Coast
+MCZ,Maceio
+MDC,Manado
+MDE,Medellin Jose Maria Cordova Intl
+MDG,Mudanjiang
+MDI,Makurdi
+MDK,Mbandaka
+MDL,Mandalay
+MDQ,Mar del Plata
+MDS,  Middle Caicos
+MDT,Harrisburg International Apt
+MDU,Mendi
+MDW,Chicago Midway Apt
+MDX,MERCEDES
+MDY,MIDWAY HENDERSON FIELD
+MDZ,Mendoza
+MEA,Macae
+MEB,Melbourne Essendon Apt
+MEC,Manta
+MED,Madinah
+MEE,Mare
+MEG,Malange
+MEH,Mehamn
+MEI,Meridian
+MEL,Melbourne Airport
+MEM,Memphis International Apt
+MEN,MENDE/BRENOUX
+MEP,MERSING
+MEQ,Cut Nyak Dien
+MES,Medan
+MEU,ALMEIRIM/MONTE DOURADO
+MEX,Mexico City Juarez International Apt
+MEY,  Meghauli
+MFD,MANSFIELD LAHM REGIONAL
+MFE,McAllen
+MFF,MOANDA
+MFJ,  Moala
+MFK,MATSU/BEIGAN
+MFM,Macau
+MFQ,MARADI
+MFR,Medford
+MFU,Mfuwe
+MGA,Managua
+MGB,Mount Gambier
+MGE,DOBBINS AFB
+MGF,Maringa
+MGH,MARGATE
+MGL,MOENCHENGLADBACH
+MGM,Montgomery Dannelly Field
+MGN,MAGANGUE/BARACOA
+MGQ,Mogadishu
+MGS,Mangaia Island
+MGT,Milingimbi Island
+MGU,Manaung
+MGW,Morgantown
+MGZ,Myeik
+MHC,Castro
+MHD,Mashhad
+MHG,MANNHEIM-CITY
+MHH,Marsh Harbour
+MHK,Manhattan
+MHP,MINSK-1
+MHQ,Mariehamn
+MHR,SACRAMENTO MATHER
+MHT,Manchester
+MHU,MT HOTHAM AIRPORT
+MHV,MOJAVE/KERN COUNTY
+MHW,Monteagudo
+MHZ,MILDENHALL
+MIA,Miami International Apt
+MIB,MINOT AFB
+MID,Merida
+MIG,Mianyang
+MII,Marilia
+MIJ,XXX
+MIK,MIKKELI
+MIL,MILANO/BRESSO
+MIM,Merimbula
+MIP,RAMON AFB
+MIR,Monastir
+MIS,Misima Island
+MIU,Maiduguri
+MIV,MILLVILLE MUNI
+MJA,  Manja
+MJB,XXX
+MJC,Man
+MJD,Mohenjodaro
+MJE,XXX
+MJF,Mosjoen
+MJI,TRIPOLI/MITIGA
+MJK,  Monkey Mia
+MJL,MOUILLA
+MJM,Mbuji-Mayi
+MJN,Mahajanga
+MJP,MANJIMUP
+MJT,Mytilini
+MJU,Mamuju
+MJV,Murcia
+MJZ,Mirny
+MKC,KANSAS CITY CH.B.WHEELER DOWNT
+MKE,Milwaukee General Mitchell Intl Apt
+MKG,Muskegon
+MKJ,MAKOUA
+MKK,Hoolehua
+MKL,Jackson
+MKM,Mukah
+MKP,Makemo
+MKQ,Merauke
+MKR,MEEKATHARRA
+MKU,MAKOKOU
+MKW,Manokwari
+MKY,Mackay
+MKZ,MALACCA
+MLA,Malta
+MLB,Melbourne
+MLC,MC ALESTER REGIONAL
+MLD,MALAD CITY
+MLE,Male
+MLF,MILFORD MUNI/B&J BRISCOE FIELD
+MLG,Malang
+MLH,Mulhouse
+MLI,Moline
+MLL,Marshall
+MLM,Morelia
+MLN,Melilla
+MLO,Milos
+MLP,MALABANG
+MLS,MILES CITY/FRANK WILEY
+MLT,MILLINOCKET MUNI
+MLU,Monroe
+MLW,Monrovia Spriggs Payne Apt
+MLX,Malatya
+MLY,Manley Hot Springs
+MLZ,MELO
+MMB,Memambetsu
+MMD,MINAMI DAITO
+MME,Durham
+MMG,MOUNT MAGNET
+MMH,Mammoth Lakes
+MMJ,Matsumoto
+MMK,Murmansk
+MMM,MIDDLEMOUNT
+MMO,Maio Island
+MMT,MC ENTIRE AIR NATIONAL GUARD
+MMU,Morristown
+MMV,Milei
+MMX,Malmo Airport
+MMY,Miyako
+MMZ,Maimanah
+MNA,Melangguane
+MNB,  Moanda
+MNC,  Nacala
+MNF,  Mana Island
+MNG,Maningrida
+MNH,MINNERIYA
+MNI,Montserrat
+MNJ,  Mananjary
+MNL,Manila Ninoy Aquino International Apt
+MNQ,MONTO
+MNR,MONGU
+MNS,Mansa
+MNT,Minto
+MNU,Mawlamyine
+MNX,MANICORE
+MNY,XXX
+MOA,Moa
+MOB,Mobile Municipal Apt
+MOC,Montes Claros
+MOD,Modesto
+MOE,MOMEIK
+MOF,Maumere
+MOG,MONGHSAT
+MOH,Maleo Airport
+MOI,Mitiaro Island
+MOL,Molde
+MON,MOUNT COOK
+MOO,MOOMBA
+MOQ,Morondava
+MOT,Minot International Apt
+MOU,Mountain Village
+MOV,Moranbah
+MOZ,Moorea
+MPA,Katima Mulilo
+MPH,Caticlan
+MPI,  Mamitupo
+MPK,MOKPO
+MPL,Montpellier Mediterranee Apt
+MPM,Maputo
+MPN,Mount Pleasant
+MPP,Mulatupo
+MPV,EDWARD F KNAPP STATE/BARRE
+MPW,MARIUPOL INTL
+MQB,MACOMB MUNI
+MQF,Magnitogorsk
+MQH,MINACU
+MQJ,Khonuu
+MQL,Mildura
+MQM,Mardin
+MQN,Mo I Rana
+MQP,Nelspruit
+MQQ,MOUNDOU
+MQS,MUSTIQUE
+MQT,Marquette
+MQU,MARIQUITA/MARQUITA
+MQX,Mekele
+MQY,SMYRNA
+MQZ,MARGARET RIVER
+MRA,Misurata
+MRB,MARTINSBURG EASTERN WV REG.
+MRD,Merida
+MRE,Masai Mara
+MRG,MAREEBA
+MRM,  Manare
+MRO,Masterton
+MRQ,MARINDUQUE
+MRR,MACARA
+MRS,Marseille Provence Apt
+MRU,Mauritius
+MRV,Mineralnye Vody
+MRW,LOLLAND FALSTER/MARIBO
+MRX,Bandar Mahshahr
+MRY,Monterey Peninsula Apt
+MRZ,Moree
+MSA,Muskrat Dam
+MSE,Manston
+MSH,RAFO Masirah
+MSJ,Misawa
+MSK,Morelia
+MSL,Muscle Shoals
+MSN,Madison
+MSO,Missoula
+MSP,Minneapolis International Apt
+MSQ,Minsk International Apt
+MSR,Mus
+MSS,Massena
+MST,Maastricht/Aachen
+MSU,Maseru
+MSW,Massawa
+MSY,New Orleans Louis Armstrong Intl Apt
+MSZ,Namibe
+MTE,MONTE ALEGRE
+MTH,  Marathon
+MTJ,Montrose
+MTK,Makin
+MTL,MAITLAND
+MTM,Metlakatla
+MTN,BALTIMORE MARTIN STATE
+MTP,MONTAUK
+MTQ,MITCHELL
+MTR,Monteria
+MTS,Manzini
+MTT,Minatitlan
+MTV,Mota Lava
+MTY,Monterrey General Mariano Escobedo Apt
+MUA,Munda
+MUB,Maun
+MUC,Munich International Airport
+MUE,Kamuela
+MUH,MERSA-MATRUH
+MUK,Mauke Island
+MUN,Maturin
+MUO,MOUNTAIN HOME AFB
+MUR,Marudi
+MUW,Mascara
+MUX,Multan
+MUZ,  Musoma
+MVB,FRANCEVILLE/MVENGUE
+MVD,Montevideo
+MVF,MOSSORO/DIX SEPT ROSADO
+MVP,Mitu
+MVQ,MOGILEV
+MVR,Maroua
+MVS,  Mucuri
+MVT,Mataiva
+MVY,Martha's Vineyard
+MVZ,MASVINGO
+MWA,Marion
+MWE,MEROWE
+MWF,Maewo
+MWH,MOSES LAKE/GRANT COUNTY INTL
+MWK,  Matak
+MWL,MINERAL WELLS
+MWQ,  Magwe
+MWX,Muan
+MWZ,Mwanza
+MXF,MAXWELL AFB
+MXH,Moro
+MXJ,MINNA
+MXL,Mexicali
+MXM,  Morombe
+MXN,MORLAIX/PLOUJEAN
+MXP,Milan Malpensa Apt
+MXT,  Maintirano
+MXV,Moron
+MXX,Mora
+MXZ,Meixian
+MYA,Moruya
+MYC,MARACAY/EL LIBERTADOR
+MYD,Malindi
+MYE,Miyakejima
+MYG,Mayaguana
+MYI,  Murray Island
+MYJ,Matsuyama
+MYL,MC CALL MUNICIPAL
+MYN,MARIB
+MYP,MARY
+MYQ,Mysore
+MYR,Myrtle Beach AFB
+MYT,Myitkyina
+MYU,Mekoryuk
+MYV,YUBA COUNTY/MARYSVILLE
+MYW,Mtwara
+MYY,Miri
+MZA,  Muzaffarnagar
+MZB,MOCIMBOA DA PRAIA
+MZG,Magong
+MZH,Amasya
+MZI,MOPTI
+MZJ,MARANA/PINAL AIRPARK
+MZK,Marakei
+MZL,Manizales
+MZM,METZ/FRESCATY
+MZO,Manzanillo
+MZQ,MKUZI
+MZR,Mazar-e Sharif
+MZT,Mazatlan
+MZU,MUZAFFARPUR
+MZV,Mulu
+MZW,Mecheria
+NAA,Narrabri
+NAE,NATITINGOU
+NAG,Nagpur
+NAH,Tahuna
+NAJ,Nakchivan
+NAK,NAKHON RATCHASIMA
+NAL,NALCHIK
+NAM,Namniwel
+NAN,Nadi
+NAO,Nanchong
+NAP,Naples Capodichino Apt
+NAQ,Qaanaaq
+NAS,Nassau International Apt
+NAT,Natal
+NAU,Napuka
+NAV,Nevsehir
+NAW,Narathiwat
+NAY,Beijing Nanyuan Apt
+NAZ,XXX
+NBB,BERYOZOVO
+NBC,Nizhnekamsk
+NBE,Enfidha
+NBG,NEW ORLEANS NAS JRB
+NBK,BANGKOK SUVARNABHUMI INTL
+NBO,Nairobi Jomo Kenyatta International Apt
+NBS,Chang Bai Shan
+NBW,GUANTANAMO US-NAVAL AIR BASE
+NBX,Nabire
+NCA,NORTH CAICOS
+NCE,Nice
+NCL,Newcastle
+NCS,NEWCASTLE
+NCU,Nukus
+NCY,ANNECY/MEYTHET
+NDB,Nouadhibou
+NDC,  Nanded
+NDE,  Mandera
+NDG,Qiqihar
+NDJ,N'Djamena
+NDK,Namdrik Island
+NDR,Nador
+NDU,Rundu
+NDY,Sanday
+NEC,NECOCHEA
+NEG,  Negril
+NER,Neryungri
+NEU,SAMNEUA
+NEV,Nevis
+NEW,NEW ORLEANS/LAKEFRONT
+NFL,FALLON NAS/VAN VOORHIS FLD
+NFO,Mata'aho (TO)
+NFW,FORT WORTH NAS JRB
+NGA,YOUNG
+NGB,Ningbo
+NGE,NGAOUNDERE
+NGF,KANEOHE BAY MCAF MOKAPU
+NGI,  Ngau
+NGK,Nogliki
+NGL,Ngala
+NGO,Nagoya Chubu Centrair International Apt
+NGP,CORPUS CHRISTI NAS
+NGQ,Shiquande
+NGS,Nagasaki
+NGU,NORFOLK NAS
+NGZ,ALAMEDA NAS
+NHA,NHATRANG
+NHF,NEW HALFA
+NHT,NORTHOLT
+NHV,Nuku Hiva
+NHZ,BRUNSWICK NAS
+NIB,Nikolai
+NIC,Nicosia
+NID,CHINA LAKE NAWS (ARMITAGE FLD)
+NIF,Nifty
+NIG,Nikunau
+NIM,Niamey
+NIN,  Ninilchik
+NIP,JACKSONVILLE NAS
+NIQ,Niaqornat
+NIS, Simberi
+NIU,Niau
+NJA,ATSUGI
+NJC,Nizhnevartovsk
+NJF,Al Najaf
+NJK,EL CENTRO NAF
+NKC,Nouakchott
+NKG,Nanjing
+NKI,Naukiti
+NKM,Nagoya Komaki Airport
+NKT,Sirnak
+NKW,DIEGO GARCIA
+NKX,SAN DIEGO-MIRAMAR MCAS
+NLA,Ndola
+NLD,Nuevo Laredo
+NLF,  Darnley Island
+NLG,Nelson Lagoon
+NLH,Ninglang Luguhu
+NLI,Nikolayevsk-on-Amur
+NLK,Norfolk Island
+NLO,KINSHASA/N'DOLO
+NLT,Xinyuan
+NLU,Felipe Angeles
+NLV,MYKOLAIV
+NMA,Namangan
+NME,Nightmute
+NMF,Maafaru
+NMM,MERIDIAN NAS/MC CAIN FIELD
+NMS,NAMSANG
+NNB,Santa Ana Island
+NNG,Nanning
+NNL,Nondalton
+NNM,Naryan-Mar
+NNT,Nan
+NNU,NANUQUE
+NNX,Nunukan
+NNY,Nanyang
+NOA,NOWRA
+NOB,Nosara Beach
+NOC,Knock
+NOG,NOGALES
+NOJ,Nojabrsk
+NON,Nonouti
+NOP,Sinop
+NOS,Nosy-Be
+NOU,La Tontouta
+NOV,Huambo
+NOZ,Novokuznetsk
+NPA,PENSACOLA NAS/F.SHERMAN FLD
+NPE,Napier-Hastings
+NPL,New Plymouth
+NPY,Mpanda
+NQN,Neuquen
+NQU,Nuqui
+NQX,KEY WEST NAS/BOCA CHICA
+NQY,Newquay
+NQZ,Nursultan Nazarbayev
+NRA,Narrandera
+NRD,  Norderney
+NRE,  Namrole
+NRK,Norrkoping
+NRL,North Ronaldsay
+NRN,Duesseldorf Weeze Airport
+NRR,ROOSEVELT ROADS
+NRT,Tokyo Narita Intl
+NSB,ALICE TOWN/SOUTH BEMINI
+NSH,Now Shahr
+NSI,Yaounde Nsimalen Intl Apt
+NSK,Norilsk
+NSN,Nelson
+NSO,SCONE
+NSQ,Nuussuaq
+NSR,Sao Raimundo Nonato
+NST,Nakhon Si Thammarat
+NSY,CATANIA/SIGONELLA
+NTB,NOTODDEN
+NTD,POINT MUGU NAS
+NTE,Nantes Atlantique Airport
+NTG,Nantong
+NTL,Newcastle Williamtown Apt
+NTN,Normanton
+NTQ,Wajima
+NTR,MONTERREY/AEROPORTE DEL NORTE
+NTT,  Niuatoputapu
+NTX,Natuna
+NTY,Sun City
+NUA,Nuwara Eliya
+NUC,SAN CLEMENTE ISLAND NALF
+NUD,NAHUD
+NUE,Nuremberg
+NUI,Nuiqsut
+NUK,Nukutavake
+NUL,Nulato
+NUM,Neom Bay
+NUP,Nunapitchuk
+NUQ,MOFFET FEDERAL AIRFIELD
+NUS,Norsup
+NUU,Nakuru
+NUW,WHIDBEY ISLAND NAS
+NUX,Novy Urengoy
+NVA,Neiva
+NVI,Navoi
+NVK,Narvik
+NVP,NOVO ARIPUANA
+NVR,KRETCHEVITSY
+NVS,NEVERS/FOURCHAMBAULT
+NVT,Navegantes
+NWA,MOHELI
+NWI,Norwich
+NYA,Nyagan
+NYI,SUNYANI
+NYK,Nanyuki
+NYM,Nadym
+NYN,NYNGAN
+NYO,Stockholm Skavsta Airport
+NYR,Nyurba
+NYT,Nay Pyi Taw
+NYU,Bagan/Nyaung-U
+NYW,Monywa
+NZE,NZEREKORE/KONIA
+NZH,Manzhouli
+NZL,Zhalantun
+NZW,SOUTH WEYMOUTH NAS
+NZY,NORTH ISLAND/HALSEY FLD NAS
+OAG,Orange
+OAI,Bagram
+OAJ,Jacksonville
+OAK,Oakland International Apt
+OAL,Cacoal
+OAM,OAMARU
+OAX,Oaxaca
+OBF,OBERPFAFFENHOFEN
+OBI,OBIDOS
+OBL,ZOERSEL - MIL
+OBN,  Oban
+OBO,Obihiro
+OBS,AUBENAS/ARDECHE MERIDIONALE
+OBU,Kobuk
+OBX,  Obo
+OBY,Ittoqqortoormiit
+OCC,Coca
+OCJ,Ian Fleming
+OCM,Boolgeeda
+OCV,  Oca a
+ODB,CORDOBA
+ODE,ODENSE
+ODH,ODIHAM
+ODN,Long Seridan
+ODO,Bodaybo
+ODS,Odesa
+ODW,  Oak Harbor
+ODX,ORD EVELYN SHARP FLD
+ODY,Muang Xay
+OEL,OREL YUZHNY
+OER,Ornskoldsvik
+OFF,OMAHA/OFFUT
+OFK,NORFOLK KARL STEFAN MEMORIAL
+OGD,Ogden Municipal Apt
+OGG,Kahului
+OGL,Ogle
+OGM,Ustupu Island
+OGN,YONAGUNI
+OGS,Ogdensburg
+OGU,Ordu-Giresun
+OGX,Ouargla
+OGZ,Vladikavkaz
+OHA,OHAKEA
+OHD,OHRID
+OHE,Mohe
+OHH,Okha
+OHO,Okhotsk
+OHS,  Sohar
+OHT,KOHAT
+OIA,Ourilandia Airport
+OIM,Oshima
+OIR,OKUSHIRI
+OIT,Oita
+OKA,Okinawa Naha Apt
+OKC,Oklahoma City Will Rogers Apt
+OKD,Sapporo Okadama Apt
+OKE,OKIERABU
+OKH,COTTESMORE
+OKI,OKI
+OKJ,Okayama
+OKL,Oksibil
+OKO,TOKYO YOKOTA AB
+OKR,  Masig Island
+OKS,OSHKOSH GARDEN COUNTY
+OKY,OAKEY
+OLA,Orland
+OLB,Olbia
+OLC,Sao Paula de Olivenca
+OLD,OLD TOWN/DEWITT FIELD
+OLF,Wolf Point
+OLH,Old Harbor
+OLJ,  Olpoi
+OLK,OLEKMINSK
+OLL,Oyo
+OLM,OLYMPIA
+OLP,Olympic Dam
+OLS,NOGALES INTL
+OLV,OLIVE BRANCH
+OLX,Olkiombo
+OLY,OLNEY-NOBLE
+OLZ,Olyokminsk
+OMA,Omaha Eppley Airfield
+OMB,  Omboue
+OMC,ORMOC
+OMD,Oranjemund
+OME,Nome
+OMF,MAFRAQ
+OMH,Urumiyeh
+OMM,Marmul
+OMO,INTL AIRPORT MOSTAR
+OMR,Oradea
+OMS,Omsk
+ONA,KONA
+ONB,  Ononge
+OND,Ondangwa
+ONG,Mornington Island
+ONJ,Odate/Noshiro
+ONL,ONEILL MUNI-JOHN L BAKER FLD
+ONP,  Newport
+ONQ,ZONGULDAK/CAYCUMA
+ONS,Onslow
+ONT,Ontario LA/Ontario International Apt
+ONX,COLON/E.A.JIMENEZ
+OOD,Koodaideri Mine
+OOK,Toksook Bay
+OOL,Gold Coast
+OOM,COOMA-SNOWY MOUNTAINS
+OOT,Onotoa
+OPF,OPA LOCKA
+OPO,Porto
+OPP,Salinopolis
+OPS,Sinop
+OPU,  Balimo
+OQU,NORTH KINGSTON/QUONSET STATE
+ORA,ORAN
+ORB,Orebro
+ORD,Chicago O'Hare International Apt
+ORE,ORLEANS/BRICY
+ORF,Norfolk International Apt
+ORG,PARAMARIBO/ZORG EN HOOP
+ORH,Worcester
+ORI,Port Lions
+ORK,Cork
+ORL,ORLANDO/EXECUTIVE
+ORN,Oran Es Senia Apt
+ORP,ORAPA
+ORT,NORTHWAY
+ORU,Oruro
+ORV,Noorvik
+ORW,ORMARA
+ORX,ORIXIMINA
+ORY,Paris Orly Apt
+OSC,OSCODA-WURTSMITH AFB
+OSD,Are/Ostersund
+OSH,OSHKOSH WITTMAN REGIONAL
+OSI,Osijek
+OSK,Oskarshamn
+OSL,Oslo Gardermoen Airport
+OSM,Mosul
+OSN,SONGTAN-SI OSAN AB
+OSO,Osborne Mine
+OSP,SLUPSK REDZIKOWO
+OSR,Ostrava
+OSS,Osh
+OST,OOSTENDE BRUGGE
+OSW,Orsk
+OSY,Namsos
+OSZ,XXX
+OTD,Contadora
+OTH,North Bend
+OTI,Leo Wattimena
+OTM,OTTUMWA INDUSTRIAL
+OTP,Bucharest Henri Coanda Apt
+OTR,  Coto 47
+OTZ,Kotzebue
+OUA,Ouagadougou
+OUD,Oujda
+OUE,OUESSO
+OUH,OUDTSHOORN
+OUI,BAN HUOEISAY
+OUL,Oulu
+OUR,BATOURI
+OUS,OURINHOS
+OUZ,Zouerate
+OVB,Novosibirsk
+OVD,Asturias
+OVR,OLAVARRIA
+OVS,Sovetsky
+OWB,Owensboro
+OXB,Bissau
+OXF,OXFORD KIDLINGTON
+OXR,  Oxnard
+OYA,GAL OYA/AMPARAI
+OYE,  Oyem
+OYG,  Moyo
+OYK,OIAPOQUE
+OZC,Ozamis
+OZG,Zagora
+OZH,Zaporizhia
+OZP,MORON
+OZZ,Ouarzazate
+PAA,HPA-AN
+PAB,BILASPUR
+PAC,Panama City Marcos A. Gelabert
+PAD,Paderborn/Lippstadt
+PAE,EVERETT/SNOHOMISH CO
+PAF,Pakuba
+PAG,Pagadian
+PAH,Paducah
+PAI,  Pailin
+PAJ,PARACHINAR
+PAK,PAKSE AIRFIELD
+PAL,PALANQUERO / GERMAN OLANO
+PAM,PANAMA CITY/TYNDALL AFB
+PAN,PATTANI
+PAP,Port au Prince
+PAS,Paros
+PAT,Patna
+PAV,PAULO ALFONSO
+PAZ,Poza Rica
+PBB,PARNAIBA/PREF DR JOAO S. FILHO
+PBC,Puebla
+PBD,Porbandar
+PBF,PINE BLUFF - GRIDER FLD
+PBG,Plattsburgh
+PBH,Paro
+PBI,West Palm Beach International Apt
+PBJ,Paama
+PBL,PUERTO CABELLO
+PBM,Paramaribo Johan A Pengel Apt
+PBO,Paraburdoo
+PBP,Punta Islita
+PBQ,PIMENTA BUENO
+PBR,PUERTO BARRIOS
+PBU,Putao
+PBZ,Plettenberg Bay
+PCA,  Portage Creek
+PCE,Painter Creek
+PCL,Pucallpa
+PCN,Picton Aerodrome
+PCP,PRINCIPE
+PCQ,Boun Neua
+PCR,Puerto Carreno
+PCS,PICOS
+PDA,Puerto Inirida
+PDB,Pedro Bay
+PDF,PRADO
+PDG,Padang
+PDK,ATLANTA/DE KALB-PEACHTREE
+PDL,Ponta Delgada
+PDM,Pedasi
+PDP,Punta Del Este
+PDS,Piedras Negras
+PDT,Pendleton
+PDV,Plovdiv
+PDX,Portland
+PEC,Pelican
+PED,Pardubice
+PEE,Perm
+PEG,Perugia
+PEH,PEHUAJO/COMODORE PEDRO ZANNI
+PEI,Pereira
+PEK,Beijing Capital Intl Apt
+PEM,Puerto Maldonado
+PEN,Penang
+PER,Perth
+PES,Petrozavodsk
+PET,Pelotas
+PEU,Puerto Lempira
+PEW,Peshawar
+PEX,Pechora
+PEZ,Penza
+PFB,Passo Fundo
+PFN,PANAMA CITY/BAY COUNTY
+PFO,Paphos
+PFQ,Parsabad
+PFR,ILEBO
+PGA,Page
+PGD,Punta Gorda
+PGF,Perpignan
+PGG,NOVO PROGRESSO/CACHIMBO
+PGH,PANTNAGAR/NAINITAL
+PGK,Pangkalpinang
+PGM,Port Graham
+PGU,Asaloyeh
+PGV,Greenville
+PGX,Perigueux
+PGZ,PONTA GROSSA
+PHB,Parnaiba
+PHC,Port Harcourt
+PHE,Port Hedland
+PHF,Newport News
+PHG,Port Harcourt City
+PHI,PINHEIRO
+PHL,Philadelphia International Apt
+PHN,PORT HURON - ST CLAIRE CO INTL
+PHO,Point Hope
+PHP,PHILIP
+PHQ,The Monument Airport
+PHR,  Pacific Harbour / Deuba
+PHS,Phitsanulok
+PHT,PARIS - EDGAR COUNTY
+PHW,Phalaborwa
+PHX,Phoenix Sky Harbor Intl Apt
+PIA,Peoria
+PIB,Laurel Hattiesburg-Laurel Regional Apt
+PIE,Tampa St Petersbrg-Clearwater Intl Apt
+PIF,PINGTUNG/NORTH AIRPORT
+PIH,Pocatello
+PIK,Glasgow Prestwick Apt
+PIN,Parintins
+PIO,PISCO INTL
+PIP,Pilot Point Airport
+PIR,Pierre
+PIS,Poitiers Biard Airport
+PIT,Pittsburgh International Apt
+PIU,Piura
+PIW,PIKWITONEI
+PIX,Pico Island
+PIZ,Point Lay
+PJA,Pajala
+PJC,PEDR J.CABALERO/AUGUSTO FUSTER
+PJG,Panjgur
+PJM,Puerto Jimenez
+PKA,Napaskiak
+PKB,Parkersburg/Marietta
+PKC,Petropavlovsk
+PKD,PARK RAPIDS MUNI - KONSHOK FLD
+PKE,Parkes
+PKG,Pangkor
+PKK,  Pakokku
+PKN,Pangkalanbun
+PKO,PARAKOU
+PKP,Puka-Puka Airport
+PKR,Pokhara
+PKU,Pekanbaru
+PKV,PSKOV
+PKW,SELEBI-PHIKWE
+PKX,Beijing Daxing
+PKY,Palangkaraya
+PKZ,Pakse
+PLB,PLATTSBURG
+PLD,  Playa S mara
+PLH,PLYMOUTH
+PLI,PALM ISLAND
+PLJ,Placencia
+PLL,MANAUS/PONTA PELADA
+PLM,Palembang
+PLN,Pellston
+PLO,Port Lincoln
+PLQ,Klaipeda/Palanga
+PLS,Providenciales
+PLU,Belo Horizonte Pampulha Apt
+PLW,Palu
+PLX,Semey
+PLZ,Port Elizabeth
+PMA,PEMBA/CHAKE CHAKE
+PMC,Puerto Montt
+PMD,PALMDALE RGNL/USAF PLANT 42
+PMF,Milan Parma Apt
+PMG,PONTA PORA/INTL
+PMI,Palma De Mallorca
+PMK,  Palm Island
+PML,Port Moller
+PMO,Palermo
+PMR,Palmerston North
+PMS,PALMYRA
+PMV,Porlamar
+PMW,Palmas
+PMY,Puerto Madryn
+PMZ,Palmar
+PNA,Pamplona
+PNB,PORTO NATIONAL
+PNC,PONCA CITY RGNL
+PND,Punta Gorda
+PNE,NORTHEAST PHILADELPHIA
+PNG,PARANAGUA
+PNH,Phnom Penh
+PNI,Pohnpei
+PNK,Pontianak
+PNL,Pantelleria
+PNP,Popondetta
+PNQ,Pune
+PNR,Pointe-Noire
+PNS,Pensacola Municipal Apt
+PNT,PUERTO NATALES/TTE.J.GALLARDO
+PNY,Pondicherry
+PNZ,Petrolina
+POA,Porto Alegre
+POB,FAYETTEVILLE/POPE AFB
+POD,  Podor
+POF,POPLAR BLUFF MUNI
+POG,Port Gentil
+POI,Potosi
+POJ,Patos De Minas
+POL,Pemba
+POM,Port Moresby
+POO,POCOS DE CALDAS
+POP,Puerto Plata
+POR,Pori
+POS,Port of Spain
+POT,PORT ANTONIO/KEN JONES
+POU,POUGHKEEPSIE - DUTCHESS CO
+POW,PORTOROZ/INTL
+POX,PONTOISE/CORMEILLES EN VEXIN
+POZ,Poznan
+PPB,President Prudente
+PPE,Puerto Penasco
+PPG,Pago Pago
+PPI,PORT PIRIE
+PPK,PETROPAVLOVSK
+PPL,  Phaplu
+PPN,Popayan
+PPP,Proserpine
+PPQ,Paraparaumu
+PPS,Puerto Princesa
+PPT,Tahiti
+PPV,Port Protection
+PPW,Papa Westray
+PPY,POUSO ALEGRE
+PQC,Phuquoc
+PQI,Presque Isle
+PQM,Palenque
+PQQ,Port Macquarie
+PQS,Pilot Station
+PQT,Qeqertaq
+PRA,PARANA/GENERAL URQUIZA
+PRB,PASO ROBLES MUNI
+PRC,Prescott
+PRG,Prague Ruzyne
+PRH,Phrae
+PRI,Praslin Island
+PRM,PORTIMAO
+PRN,Pristina
+PRQ,  Presidencia Roque S enz Pe a
+PRS,  Parasi
+PRU,PYAY
+PRV,PREROV
+PRY,Wonderboom
+PSA,Pisa
+PSC,Pasco
+PSD,PORT SAID
+PSE,Ponce
+PSF,PITTSFIELD PENSTONE MUNI
+PSG,Petersburg
+PSI,PASNI
+PSJ,Poso
+PSL,PERTH/SCONE
+PSM,PORTSMOUTH INTL AT PEASE
+PSO,Pasto
+PSP,Palm Springs Municipal Apt
+PSR,Pescara
+PSS,Posadas
+PSU,Putussibau
+PSW,PASSOS
+PSX,PALACIOS MUNI
+PSZ,Puerto Suarez
+PTA,Port Alsworth
+PTF,  Malolo Lailai Island
+PTG,Polokwane
+PTH,Port Heiden
+PTJ,Portland
+PTK,PONTIAC OAKLAND COUNTY INTL
+PTO,PATO BRANCO
+PTP,Pointe-a-Pitre
+PTQ,PORTO DE MOZ
+PTU,Platinum
+PTX,Contador
+PTY,Panama City Tocumen International
+PTZ,SHELL MERA/RIO AMAZONAS
+PUB,Pueblo
+PUC,PRICE - CARBON COUNTY
+PUD,PUERTO DESEADO
+PUE,Puerto Obaldia
+PUF,Pau
+PUG,Port Augusta
+PUJ,Punta Cana
+PUK,Pukarua Airport
+PUM,Kolaka
+PUQ,Punta Arenas
+PUS,Busan
+PUU,Puerto Asis
+PUV,POUM MALABOU
+PUW,Pullman
+PUY,Pula
+PUZ,PUERTO CABEZAS
+PVA,Providencia
+PVC,Provincetown
+PVD,Providence
+PVG,Shanghai Pudong International Apt
+PVH,Porto Velho
+PVI,PARANAVAI
+PVK,Preveza/Lefkada
+PVO,PORTOVIEJO/REALES TAMARINDOS
+PVR,Puerto Vallarta
+PVS,PROVIDENIYA BAY
+PVU,Provo
+PWA,OKLAHOMA CITY - WILEY POST
+PWE,Pevek
+PWK,  Chicago/Prospect Heights/Wheeling
+PWM,Portland
+PWQ,Pavlodar
+PXA,Atung Bungsu
+PXM,Puerto Escondido
+PXO,Porto Santo
+PXU,Pleiku
+PYC,Playon Chico
+PYG,Pakyong
+PYH,Puerto Ayacucho
+PYJ,Polyarny
+PYR,ANDRAVIDA
+PYT,Paracatu
+PYY,Pai
+PZB,Pietermaritzburg
+PZE,  Penzance
+PZH,Zhob
+PZI,Panzhihua
+PZL,Zulu Nyala
+PZO,Puerto Ordaz
+PZQ,PRESQUE ISLE COUNTY AIRPORT
+PZU,Port Sudan
+PZY,PIESTANY
+QAK,BARBACENA/MAJ BRIG D.BORGES
+QAM,AMIENS/GLISY
+QAQ,L'AQUILA
+QAR,ARNHEIM/DEELEN
+QAS,ECH CHELIFF
+QAU,BEBEDOURO
+QBC,Bella Coola
+QBQ,BESANCON/LA VEZE
+QBX,SOBRAL
+QCJ,BOTUCATU
+QCU,Akunnaaq
+QDC,DRACENA
+QDU,XXX
+QDV,JUNDIAI
+QEF,EGELSBACH
+QFB,Freiburg Stn. (DE)
+QFD,BOUFARIK/AIR FORCE BASE
+QFG,Eqalugaarsuit Heliport
+QFI,Iginniarfik
+QFN,Narsaq Kujalleq Heliport
+QFO,DUXFORD
+QFR,FROSINONE
+QFX,Igaliku Heliport
+QFZ,SAARBRUCKEN/TRAIN STATION
+QGA,GUAIRA
+QGC,LENCOIS PAULISTA
+QGP,GARANHUNS
+QGQ,Attu
+QGU,GIFU
+QGY,GYOER-PER
+QGZ,LA GOMERA
+QHB,PIRACICABA
+QHP,TAUBATE/MIL AD
+QIE,ISTRES/LE TUBE
+QIG,IGUATU
+QIT,ITAPETINGA
+QJB,JUBAIL/NAVAL BASE
+QJE,Kitsissuarsuit
+QJH,Qassumiut Heliport
+QJI,Ikamiut
+QJY,Kolobrzeg Bus (PL)
+QJZ,Nantes Rail (FR)
+QKC,KARAJ-PAYAM
+QKL,COLOGNE/TRAIN STATION
+QLA,LASHAM
+QLF,LAHTI-VESIVEHMAA
+QLR,MONTE REAL-AIR BASE NR 5
+QLT,LATINA
+QLU,LUBIN
+QLY,PRATICA DI MARE
+QMJ,MASJED SOLEIMAN
+QMK,Niaqornaarsuk
+QNS,PORTO ALEGRE/CANOAS
+QNX,MACON/CHARNAY
+QOE,NOERVENICH
+QOJ,SAO BORJA
+QOQ,Saarloq Heliport
+QOW,Owerri
+QPA,PADOVA
+QPG,SINGAPORE PAYA LEBAR
+QPJ,PECS/POGANY
+QPM,OPOLE/KAMIEN SLASKI
+QPS,PIRACUNUNGA/CAMPO FONTENELLE
+QPW,Kangaatsiaq
+QPZ,PIACENZA
+QQC,ESFAHAN/BADR AFB
+QQK,TESSALIT
+QQO,ELEFSIS AB
+QQQ,VIDSEL
+QRA,JOHANNESBURG/RAND
+QRC,RANCAGUA/DE LA INDEPENDENCIA
+QRE,CARAZINHO
+QRM,NARROMINE
+QRO,Queretaro
+QRW,Warri
+QRY,Ikerasaarsuk
+QRZ,RESENDE
+QSA,SABADELL
+QSC,SAO CARLOS/FRANCISCO P.LOPES
+QSF,Setif
+QSJ,SAO JOAO DEL REI
+QSR,SALERNO PONTECAGNANO
+QSZ,Shache
+QTK,ROTHENBURG/OBERLAUSITZ
+QTL,CARATINGA/UBAPORANGA
+QUB,Ubari
+QUO,Uyo
+QUP,Saqqaq
+QUS,GUSAU
+QUT,UTSUNOMIYA
+QUV,Aappilattoq Nanortalik Heliport
+QUW,Ammassivik Heliport
+QVB,UNIAO DA VITORIA
+QVP,AVARE/ARANDU
+QWU,Wuerzburg Stn. DE
+QXB,AIX-LES MILLES
+QXG,Angers Rail (FR)
+QXW,ALFENAS
+QYR,TROYES/BARBEREY
+QYS,YASOUJ
+QYX,UPPSALA
+QZD,SZEGED
+RAB,Rabaul
+RAE,Arar
+RAH,Rafha
+RAI,Praia
+RAJ,Rajkot
+RAK,Marrakech
+RAL,RIVERSIDE MUN
+RAO,Ribeirao Preto
+RAP,Rapid City Regional Apt
+RAQ,Sugimanuru
+RAR,Rarotonga Island
+RAS,Rasht
+RAT,RADUZHNY
+RBA,Rabat
+RBB,BORBA
+RBH,Brooks Lodge
+RBL,RED BLUFF MUNI
+RBM,STRAUBING
+RBQ,Rurrenabaque
+RBR,Rio Branco
+RBV,Ramata Island
+RBX,Rumbek
+RBY,Ruby
+RCA,ELLSWORTH AFB/RAPID CITY
+RCB,Richards Bay
+RCE,Roche Harbor
+RCH,Riohacha
+RCL,  Redcliffe
+RCM,Richmond
+RCO,ROCHEFORT/ST. AGNANT
+RCP,Cinder River
+RCQ,RECONQUISTA
+RCU,RIO CUARTO
+RCY,Rum Cay
+RDB,Red Dog Airport
+RDC,Redencao Airport
+RDD,Redding
+RDG,CARL A SPAATZ FLD/READING
+RDM,Redmond
+RDN,Redang Island
+RDO,Radom Airport
+RDP,Kazi Nazrul Islam
+RDR,GRAND FORKS AFB
+RDU,Raleigh/Durham
+RDV,Red Devil
+RDZ,Rodez
+REA,Reao
+REB,RECHLIN-LAERZ
+REC,Recife
+REG,Reggio di Calabria
+REL,Trelew
+REN,Orenburg
+REO,ROME STATE
+REP,Siem Reap
+RER,Retalhuleu
+RES,Resistencia
+RET,Rost
+REU,Reus
+REX,Reynosa
+REZ,  Resende
+RFD,Chicago Rockford Airport
+RFP,Raiatea Island
+RGA,Rio Grande
+RGI,Rangiroa Island
+RGK,Gorno-Altaysk
+RGL,Rio Gallegos
+RGN,Yangon
+RGS,Burgos
+RGT,RENGAT/JAPURA
+RHD,Rio Hondo
+RHE,REIMS/CHAMPAGNE
+RHI,Rhinelander
+RHO,Rhodes
+RHP,Ramechhap
+RHT,Alxa Right Banner Badanjilin
+RIA,Santa Maria
+RIB,Riberalta
+RIC,Richmond
+RIG,Rio Grande
+RIJ,RIOJA
+RIN,  Ringi Cove
+RIS,RISHIRI
+RIV,MARCH AFB/RIVERSIDE
+RIW,Riverton
+RIX,Riga
+RIY,Mukalla
+RIZ,Rizhao Shanzihe
+RJA,Rajahmundry
+RJB,Rajbiraj
+RJH,Rajshahi
+RJK,KRK ISLAND RIJEKA
+RJL,Logrono
+RJM,Marinda
+RJN,RAFSANJAN
+RKA,Aratika
+RKD,Rockland
+RKE,COPENHAGEN ROSKILDE
+RKS,Rock Springs
+RKT,Ras al Khaimah
+RKV,Reykjavik Apt
+RKZ,Xigaze/Rikaze
+RLA,ROLLA/VICHY
+RLG,Rostock
+RLK,Bayannur
+RLO,Valle del Conlara
+RLR,Ranohira
+RMA,Roma
+RME,GRIFFISS AIRPARK AIRPORT
+RMF,Marsa Alam
+RMG,ROME - RICHARD B. RUSSELL
+RMI,Rimini
+RMK,RENMARK
+RML,RATMALANA/COLOMBO
+RMO,Chisinau
+RMP,Rampart
+RMQ,Taichung Cingcyuangang
+RMS,RAMSTEIN AB
+RMT,Rimatara
+RMU,Region de Murcia
+RMZ,Tobolsk Remezov
+RNA,Arona
+RNB,Ronneby/Karlskrona
+RND,RANDOLPH AFB
+RNE,ROANNE/RENAISON
+RNI,Corn Island
+RNJ,YORON
+RNL,Rennell Island
+RNM,Qarn Alam
+RNN,Bornholm
+RNO,Reno
+RNP,  Rongelap Island
+RNS,Rennes St Jacques Airport
+RNT,RENTON MUN
+ROA,Roanoke
+ROB,Monrovia Roberts International Apt
+ROC,Rochester
+ROI,Roi Et
+ROK,Rockhampton
+RON,Juan Jose Rondon
+ROO,Rondonopolis
+ROP,Rota
+ROR,Koror
+ROS,Rosario
+ROT,Rotorua
+ROV,Rostov
+ROW,Roswell
+RPM,NGUKURR
+RPN,ROSH-PINA/ MAHANAIM-I.BEN-YAA
+RPR,Raipur
+RQA,Ruoqiang Loulan
+RQE,WINDOW ROCK
+RQY,Shivamogga
+RRG,Rodrigues Island
+RRK,ROURKELA
+RRR,Raroia
+RRS,Roros
+RSA,Santa Rosa
+RSD,Rock Sound
+RSH,Russian Mission
+RSI,Red Sea
+RSJ,  Rosario
+RSL,RUSSELL MUNI
+RSS,Damazin
+RST,Rochester Municipal Apt
+RSU,Yeosu/Suncheon
+RSW,Fort Myers SW Florida International Apt
+RTA,Rotuma Island
+RTB,Roatan
+RTG,Frans Sales Lega
+RTI,Roti
+RTM,Rotterdam Apt
+RTW,Saratov
+RUA,Arua
+RUC,CURITIBA/BACACHERI PR
+RUD,Shahrud
+RUE,Butembo
+RUH,Riyadh
+RUI,  Ruidoso
+RUK,  Rukumkot
+RUL,Maavarulu
+RUM,  Rumjatar
+RUN,St-Denis
+RUP,Rupsi
+RUR,Rurutu
+RUS,Marau
+RUT,Rutland
+RVA,  Farafangana
+RVD,Rio Verde
+RVE,Saravena
+RVK,Rorvik
+RVN,Rovaniemi
+RVS,TULSA - RICHARD LLOYD JONES JR
+RVT,Ravensthorpe
+RVV,Raivavae
+RVY,RIVERA
+RWF,REDWOOD FALLS MUNI
+RWI,ROCKY MOUNT - WILSON REGIONAL
+RWL,RAWLINS/HARVEY FIELD
+RWN,RIVNE
+RXS,Roxas
+RYD,VILLA REYNOLDS
+RYG,Oslo Moss-Rygge Airport
+RYK,Rahim Yar Khan
+RZA,SANTA CRUZ
+RZE,Rzeszow
+RZP,CLR Airport
+RZR,Ramsar
+RZS,Sawan
+RZV,Rize VArtvin
+SAB,Saba
+SAC,SACRAMENTO EXECUTIVE
+SAD,SAFFORD REGIONAL
+SAE,Saatut
+SAF,Santa Fe
+SAG,Sairdi
+SAH,Sanaa
+SAI,Siem Reap-Angkor
+SAK,SAUDARKROKUR/ALEXANDER
+SAL,San Salvador
+SAN,San Diego International
+SAP,San Pedro Sula
+SAQ,  San Andros
+SAR,SPARTA COMMUNITY - HUNTER FLD
+SAT,San Antonio International Apt
+SAV,Savannah/Hilton Head International Apt
+SAW,Istanbul Sabiha Gokcen Apt
+SAX,Sambu
+SAY,SIENA/AMPUGNANO
+SBA,Santa Barbara Municipal Apt
+SBD,SAN BERNARDINO INTL
+SBG,Maimun Saleh
+SBH,St Barthelemy
+SBI,KOUNDARA
+SBJ,SAO MATEUS
+SBK,SAINT BRIEUC/ARMOR
+SBL,SANTA ANA DEL YACUMA
+SBN,South Bend
+SBP,San Luis Obispo County Apt
+SBQ,SIBI
+SBR,  Saibai Island
+SBT,Sabetta International Airport
+SBU,SPRINGBOK
+SBW,Sibu
+SBY,Salisbury-Ocean City
+SBZ,Sibiu
+SCC,Prudhoe Bay/Deadhorse
+SCE,State College
+SCH,SCHENECTADY
+SCI,San Cristobal
+SCK,Sacramento Stockton Airport
+SCL,Santiago Arturo Merino Benitez
+SCM,Scammon Bay
+SCN,Saarbruecken Airport
+SCO,Aktau
+SCQ,Santiago de Compostela
+SCR,Salen/Scandinavian
+SCS,SCATSTA
+SCT,Socotra
+SCU,Santiago
+SCV,SUCEAVA/STEFAN CEL MARE
+SCW,Syktyvkar
+SCX,  Salina Cruz
+SCY,San Cristobal Island
+SCZ,Santa Cruz Island
+SDA,BAGHDAD INTL
+SDB,LANGEBAANWEG
+SDD,Lubango
+SDE,Santiago Del Estero
+SDF,Louisville International
+SDG,Sanandaj
+SDJ,Sendai
+SDK,Sandakan
+SDL,Sundsvall/Harnosand
+SDM,SAN DIEGO/BROWN FIELD
+SDN,Sandane
+SDP,Sand Point
+SDQ,Santo Domingo Las Americas Apt
+SDR,Santander
+SDT,SAIDU SHARIF
+SDU,Rio de Janeiro Santos Dumont Apt
+SDV,Tel Aviv-Yafo Sde Dov
+SDY,Sidney
+SEA,Seattle/Tacoma International Apt
+SEB,Sebha
+SEK,Srednekolymsk
+SEN,London Southend Apt
+SET,Serra Talhada
+SEU,Seronera
+SEY,  Selibaby
+SEZ,Mahe Island
+SFA,Sfax
+SFB,Orlando Sanford International Airport
+SFD,SAN FERNANDO DE APURE
+SFE,SAN FERNANDO
+SFF,SPOKANE/FELTS FIELD
+SFG,St Martin Esperance Apt
+SFH,SAN FELIPE
+SFJ,Kangerlussuaq
+SFK,SOURE
+SFL,Sao Filipe
+SFN,Santa Fe
+SFO,San Francisco International Apt
+SFQ,SANLIURFA
+SFS,SUBIC BAY/OLONGAPO
+SFT,Skelleftea
+SGC,Surgut
+SGD,Sonderborg Airport
+SGE,SIEGERLAND
+SGF,Springfield
+SGG,Sermiligaaq
+SGK,  Sangapi
+SGN,Ho Chi Minh City
+SGO,St George
+SGS,Sanga Sanga
+SGU,St George
+SGV,SIERRA GRANDE
+SGX,SONGEA
+SGY,Skagway
+SGZ,SONGKHLA
+SHA,Shanghai Hongqiao International Apt
+SHB,Nakashibetsu
+SHC,Inda Selassie
+SHD,Staunton
+SHE,Shenyang
+SHF,Shihezi Huayuan Airport
+SHG,Shungnak
+SHH,Shishmaref
+SHI,SHIMOJISHIMA
+SHJ,Sharjah
+SHL,Shillong
+SHM,Shirahama
+SHN,SHELTON - SANDERSON FIELD
+SHO,King Mswati III International
+SHP,Qinhuangdao
+SHR,Sheridan
+SHS,Jingzhou
+SHT,SHEPPARTON
+SHV,Shreveport Regional Apt
+SHW,Sharurah
+SHX,Shageluk
+SHY,SHINYANGA/IBADAKULI
+SIA,  Xi'an
+SIC,San Jose Island
+SID,Sal Island
+SIF,SIMARA
+SIG,  San Juan
+SIN,Singapore Changi Apt
+SIO,SMITHTON
+SIP,Simferopol
+SIQ,SINGKEP
+SIR,SION
+SIS,SISHEN
+SIT,Sitka
+SJA,SAN JUAN DE MARCONA
+SJC,San Jose Norman Y. Mineta Intl
+SJD,San Jose Cabo
+SJE,San Jose del Guaviare
+SJI,San Jose
+SJJ,Sarajevo
+SJK,Sao Jose Dos Campos
+SJL,Sao Gabriel
+SJN,ST JOHNS INDUSTRIAL AIR PARK
+SJO,San Jose Juan Santamaria Apt
+SJP,Sao Jose Do Rio Preto
+SJT,San Angelo Mathis Field
+SJU,San Juan Luis Munoz Marin Intl Apt
+SJW,Shijiazhuang
+SJY,SEINAJOKI
+SJZ,Sao Jorge Island
+SKA,FAIRCHILD AFB
+SKB,St Kitts
+SKC,  Suki
+SKD,Samarkand
+SKE,Skien
+SKF,LACKLAND AFB (KELLY FLD ANNEX)
+SKG,Thessaloniki
+SKH,  Surkhet
+SKK,Shaktoolik
+SKN,Stokmarknes
+SKO,Sokoto
+SKP,Skopje
+SKS,VOJENS/SKRYDSTRUP
+SKT,Sialkot
+SKU,Skyros
+SKV,ST.CATHERINE
+SKX,Saransk
+SKZ,Sukkur
+SLA,Salta
+SLC,Salt Lake City
+SLD,SLIAC
+SLE,SALEM - MCNARY FIELD
+SLH,Sola
+SLI,Solwezi
+SLK,Saranac Lake
+SLL,Salalah
+SLM,Salamanca
+SLN,Salina
+SLO,SALEM-LECKRONE AIRPORT
+SLP,San Luis Potosi
+SLQ,Sleetmute
+SLU,St Lucia George F.L. Charles Apt
+SLV,SHIMLA
+SLW,Saltillo
+SLX,Salt Cay
+SLY,Salekhard
+SLZ,Sao Luiz
+SMA,Santa Maria Island
+SMB,CERRO SOMBRERO/FRANCO BIANCO
+SME,  Somerset
+SMF,Sacramento International Apt
+SMI,Samos
+SMK,St Michael
+SML,Stella Maris
+SMN,SALMON - LEMHI COUNTY
+SMO,SANTA MONICA MUNI
+SMQ,Sampit
+SMR,Santa Marta
+SMS,Ste Marie
+SMT,Sorriso
+SMV,SAMEDAN
+SMX,Santa Maria
+SNA,Santa Ana John Wayne Apt
+SNB,SNAKE BAY
+SNC,SALINAS/GNRAL.ULPIANO PAEZ
+SNE,Sao Nicolau Island
+SNF,SAN FELIPE
+SNG,SAN IGNACIO DE VELASCO
+SNH,STANTHORPE
+SNN,Shannon
+SNO,Sakon Nakhon
+SNP,St Paul Island
+SNR,St-Nazaire
+SNS,SALINAS MUNI AIRPORT
+SNU,Santa Clara
+SNV,Santa Elena
+SNW,Thandwe
+SNY,SIDNEY MUNI/LLOYD W. CARR FLD
+SNZ,RIO DE JANEIRO/SANTA CRUZ
+SOB,SARMELLEK BALATON
+SOC,Surakarta (Solo)
+SOD,SOROCABA
+SOF,Sofia
+SOG,Sogndal
+SOJ,Sorkjosen
+SOM,San Tome
+SON,Espiritu Santo
+SOO,SODERHAMN
+SOP,PINEHURST S.P.MOORE COUNTY
+SOQ,Sorong
+SOT,SODANKYLA
+SOU,Southampton
+SOV,Seldovia
+SOW,Show Low
+SOX,SOGAMOSO/A. LLERAS CAMARGO
+SOY,Stronsay
+SOZ,SOLENZARA
+SPB,St Thomas SPB
+SPC,Santa Cruz de la Palma
+SPD,Saidpur
+SPI,Springfield
+SPK,CHITOSE
+SPM,SPANGDAHLEM
+SPN,Saipan
+SPP,Menongue
+SPR,San Pedro
+SPS,Wichita Falls Sheppard AFB
+SPU,Split
+SPX,Sphinx
+SPY,San Pedro
+SQD,Shangrao Sanqingsha
+SQG,Sintang
+SQH,NASAN
+SQJ,Sanming Shaxian
+SQN,Emalamo
+SQO,STORUMAN
+SQQ,SIAULIAI
+SQS,San Ignacia
+SQZ,SCAMPTON
+SRA,  Santa Rosa
+SRC,SAN LUIS/VALLE DEL CONLARA
+SRE,Sucre
+SRG,Semarang
+SRH,SARH
+SRI,Samarinda
+SRJ,  San Borja
+SRK,Siorapaluk
+SRM,NIZHNY NOVGOROD/SORMOVO
+SRN,STRAHAN
+SRP,Stord
+SRQ,Sarasota/Bradenton
+SRT,SOROTI
+SRV,Stony River
+SRX,Sirte
+SRY,Sari
+SRZ,Santa Cruz El Trompillo Apt
+SSA,Salvador
+SSB,St Croix SPB
+SSC,SHAW AFB
+SSE,  Sholapur
+SSG,Malabo
+SSH,Sharm el-Sheikh
+SSI,BRUNSWICK/MC KINNON
+SSJ,Sandnessjoen
+SSN,SEOUL DOMESTIC
+SSO,SAO LOURENCO
+SSR,Sara
+SST,SANTA TERESITA
+SSX,Samsun
+SSY,M'banza Congo
+SSZ,GUARUJA/BASE AEREA
+STA,STAUNING
+STC,St Cloud Municipal Apt
+STD,Santo Domingo
+STG,St George Island
+STI,Santiago
+STJ,ST JOSEPH - ROSECRANS MEMORIAL
+STL,St Louis Lambert Intl Apt
+STM,Santarem
+STN,London Stansted Apt
+STP,ST. PAUL/DOWNTOWN HOLMAN FIELD
+STR,Stuttgart Airport
+STS,Santa Rosa
+STT,St Thomas Cyril E King Apt
+STV,Surat
+STW,Stavropol
+STX,St Croix Henry E. Rohlsen Apt
+STY,Salto
+STZ,Confresa Airport
+SUB,Surabaya
+SUF,Lamezia Terme
+SUG,Surigao
+SUJ,Satu Mare
+SUL,  Sui
+SUN,Sun Valley Friedman Memorial Apt
+SUP,Trunojoyo Airport
+SUR,Summer Beaver
+SUS,ST. LOUIS/SPIRIT OF ST LOUIS
+SUU,FAIRFIELD/TRAVIS AFB
+SUV,Suva
+SUX,Sioux City
+SUY,Suntar
+SVA,Savoonga
+SVB,Sambava
+SVC,Silver City
+SVD,St Vincent
+SVF,SAVE
+SVG,Stavanger
+SVI,San Vicente del Caguan
+SVJ,Svolvaer
+SVK,Silver Creek
+SVL,Savonlinna
+SVN,HUNTER AAF AIRPORT/SAVANNAH
+SVO,Moscow Sheremetyevo International Apt
+SVP,Kuito
+SVQ,Sevilla
+SVR,Savissivik
+SVS,Stevens Village
+SVU,Savusavu
+SVX,Yekaterinburg
+SVZ,San Antonio
+SWA,Shantou
+SWE,  Siwea
+SWF,Newburgh
+SWH,SWAN HILL
+SWJ,South West Bay
+SWL,San Vicente
+SWO,Stillwater
+SWQ,Sultan Muhammad Kaharuddin III
+SWP,SWAKOPMUND
+SWS,SWANSEA
+SWT,Strezhevoy
+SWX,SHAKAWE
+SWY,SITIAWAN
+SXB,Strasbourg
+SXE,EAST SALE
+SXF,Berlin Schoenefeld Apt
+SXI,Sirri Island
+SXK,Saumlaki
+SXL,SLIGO
+SXM,St Maarten
+SXN,SUA PAN
+SXO,SAO FELIX DO ARAGUAIA/RONCADOR
+SXP,Sheldon Point
+SXR,Srinagar
+SXV,  Salem
+SXX,SAO FELIX DO XINGU
+SXZ,SIIRT
+SYA,SHEMYA/EARECKSON AFS
+SYB,Seal Bay
+SYD,Sydney Kingsford Smith Apt
+SYJ,Sirjan
+SYM,Simao
+SYO,Shonai
+SYQ,San Jose Tobias Bolanos Apt
+SYR,Syracuse
+SYT,SAINT-YAN
+SYU,  Warraber Island
+SYW,SEHWAN SHARIF
+SYX,Sanya
+SYY,Stornoway
+SYZ,Shiraz
+SZA,Soyo
+SZB,Kuala Lumpur Sultan Abdul Aziz Shah Apt
+SZD,SHEFFIELD CITY
+SZE,Semera
+SZF,Carsamba
+SZG,Salzburg
+SZI,Zaysan
+SZJ,ISLA DE JUVENTUD/SIGUANEA
+SZH,Shuozhou Zirun
+SZK,SKUKUZA
+SZT,SAN CRISTOBAL DE LAS CASAS
+SZW,SCHWERIN-PARCHIM
+SZX,Shenzhen
+SZY,SZYMANY SZCZYTNO
+SZZ,Szczecin
+TAB,Tobago
+TAC,Tacloban
+TAE,Daegu
+TAG,Tagbilaran
+TAH,Tanna
+TAI,Taizz
+TAJ,  Aitape
+TAK,Takamatsu
+TAL,Tanana
+TAM,Tampico
+TAO,Qingdao
+TAP,Tapachula
+TAR,TARANTO/GROTTAGLIE
+TAS,Tashkent
+TAT,POPRAD/TATRY
+TAY,Tartu
+TAZ,DASHOGUZ
+TBB,Tuyhoa
+TBF,Tabiteuea North
+TBG,Tabubil
+TBH,Tablas
+TBI,The Bight
+TBJ,TABARKA
+TBN,Fort Leonard Wood
+TBO,Tabora
+TBP,Tumbes
+TBS,Tbilisi
+TBT,Tabatinga
+TBU,Nuku'Alofa
+TBW,  Tambov
+TBY,TSHABONG
+TBZ,Tabriz
+TCA,TENNANT CREEK
+TCB,Treasure Cay
+TCC,TUCUMCARI
+TCD,Tarapaca
+TCE,TULCEA/CATALOI
+TCG,Tacheng
+TCH,  Tchibanga
+TCL,TUSCALOOSA REGIONAL AIRPORT
+TCM,TACOMA MCCHORD AFB
+TCO,Tumaco
+TCP,Taba
+TCQ,Tacna
+TCR,Tuticorin
+TCS,TRUTH OR CONSEQUENCES MUNI
+TCT,Takotna
+TCV,TETE CHINGODZI
+TCW,TOCUMWAL
+TCX,TABAS
+TCZ,Tengchong
+TDD,Trinidad
+TDF,ROXBORO - PERSON COUNTY
+TDG,TANDAG
+TDK,TALDYKORGAN
+TDL,TANDIL
+TDX,Trat
+TEB,TETERBORO
+TEC,TELEMACO BORBA
+TED,THISTED
+TEE,Tebessa
+TEF,TELFER
+TEI,Tezu
+TEM,TEMORA
+TEN,Tongren
+TEQ,Tekirdag
+TER,Terceira
+TET,Tete
+TEU,MANAPOURI
+TEX,Telluride
+TEZ,  Tezpur
+TFF,Tefe
+TFI,Tufi
+TFL,TEOFILO OTONI/J.KUBITSCHECK
+TFN,Tenerife Norte
+TFR,ORAN/TAFARAOUI
+TFS,Tenerife Sur Apt
+TFU,Chengdu Tianfu
+TGA,TENGAH
+TGC,Tanjung Manis
+TGD,Podgorica
+TGG,Kuala Terengganu
+TGH,Tongoa
+TGI,TINGO MARIA
+TGJ,Tiga
+TGK,  Taganrog
+TGM,Tirgu Mures
+TGO,Tongliao
+TGP,Bor
+TGR,Touggourt
+TGT,TANGA
+TGU,Tegucigalpa
+TGZ,Tuxtla Gutierrez
+THD,Thanh Hoe
+THE,Teresina
+THF,BERLIN-TEMPELHOF
+THG,THANGOOL
+THK,THAKHEK
+THL,Tachilek
+THN,Trollhattan/Vanersborg
+THO,THORSHOFN
+THQ,Tianshui
+THR,Tehran Mehrabad International Airport
+THS,Sukhothai
+THU,Pituffik
+THX,Turukhansk
+THZ,TAHOUA
+TIA,Tirana
+TIB,Tibu
+TID,Tiaret
+TIF,Taif
+TIH,Tikehau
+TII,Tarin Kot
+TIJ,Tijuana
+TIK,TINKER AFB
+TIM,Tembagapura/Timika
+TIN,Tindouf
+TIP,Tripoli
+TIQ,TINIAN INTL
+TIR,Tirupati
+TIS,  Thursday Island
+TIU,Timaru
+TIV,Tivat
+TIW,TACOMA NARROWS
+TIX,TITUSVILLE/SPACECOAST REGIONAL
+TIZ,Tari
+TJA,Tarija
+TJH,TAJIMA
+TJK,TOKAT
+TJL,Tr  s Lagoas
+TJM,Tyumen
+TJN,Takume
+TJQ,Tanjung Pandan
+TJS,Tanjung Harapan
+TJU,Kulob
+TKA,TALKEETNA
+TKD,Takoradi
+TKE,Tenakee
+TKF,TRUCKEE-TAHOE
+TKG,Bandar Lampung
+TKH,NAKHON SAWAN/TAKHLI
+TKJ,Tok
+TKK,Chuuk
+TKN,TOKUNOSHIMA
+TKP,Takapoto
+TKQ,Kigoma
+TKR,THAKURGAON
+TKS,Tokushima
+TKT,TAK/TAK
+TKU,Turku
+TKV,Tatakoto
+TKX,Takaroa
+TLA,Teller
+TLC,Mexico City Toluca Airport
+TLE,Toliara
+TLH,Tallahassee
+TLI,Sultan Bantilan
+TLJ,Tatalina
+TLK,Talakan
+TLL,Tallinn
+TLM,Tlemcen
+TLN,Toulon/Hyeres
+TLQ,Turpan Jiaohe
+TLS,Toulouse
+TLT,Tuluksak
+TLU,Golfo de Morrosquillo
+TLV,Tel Aviv-Yafo Ben Gurion International
+TLX,TALCA/PANGUILEMO
+TLY,Plastun
+TMB,MIAMI/KENDALL TAMIAMI EXEC ARP
+TMC,Tambolaka
+TME,Tame
+TMF,Thimarafushi
+TMH,Tanah Merah
+TMI,Tumlingtar
+TMJ,Termez
+TML,Tamale
+TMM,Toamasina
+TMN,Tamana
+TMO,TUMEREMO
+TMP,Tampere
+TMR,Tamanrasset
+TMS,Sao Tome
+TMT,Trombetas
+TMU,Tambor
+TMW,Tamworth
+TMX,TIMIMOUN
+TNA,Jinan
+TNC,Tin City
+TND,TRINIDAD/ALBERTO DELGADO
+TNE,NEW TANEGASHIMA
+TNF,TOUSSUS/LE NOBLE
+TNG,Tangier
+TNJ,Tanjung Pinang
+TNH,Tonghua Sanyuanpu
+TNK,Tununak
+TNL,TERNOPIL
+TNM,ISLA REY JORGE/TENIENTE R.M.M.
+TNN,Tainan
+TNO,Tamarindo
+TNR,Antananarivo
+TNW,Tena
+TNZ,Tosontsengel
+TOA,TORRANCE/ZAMPERINI FIELD
+TOB,Tobruk
+TOD,Tioman Island
+TOE,Tozeur
+TOF,Tomsk
+TOG,Togiak
+TOH,Torres
+TOJ,MADRID/TORREJON
+TOL,Toledo Express Apt
+TOM,  Tombouctou
+TOP,TOPEKA - PHILIP BILLARD MUNI
+TOQ,TOCOPILLA/BARRILES
+TOS,Tromso
+TOU,Touho
+TOW,TOLEDO
+TOY,Toyama
+TPA,Tampa International Apt
+TPC,TARAPOA
+TPE,Taipei Taiwan Taoyuan International Apt
+TPH,TONOPAH
+TPI,  Tapini
+TPJ,  Taplejung
+TPP,Tarapoto
+TPQ,Tepic
+TPS,Trapani
+TQA,Tasiussaq Heliport
+TQD,AL TAQADDUM
+TQI,Tiniteqilaaq Heliport
+TQL,Tarko-Sale
+TQO,Tulum
+TQP,Trepell
+TQQ,Bandar Udara Maranggo
+TQR,San Domino Island
+TRA,TARAMA
+TRC,Torreon
+TRD,Trondheim Vaernes Airport
+TRE,Tiree
+TRF,Oslo Sandefjord-Torp Arpt
+TRG,Tauranga
+TRH,TURUKHANSK
+TRI,Tri-Cities Regional
+TRK,Tarakan
+TRM,JACQUELINE COCHRAN REGIONAL
+TRN,Turin Caselle Airport
+TRO,Taree
+TRQ,TARAUACA
+TRR,TRINCOMALEE / CHINA-BAY
+TRS,Trieste
+TRT,Toraja
+TRU,Trujillo
+TRV,Thiruvananthapuram
+TRW,Tarawa
+TRZ,Tiruchchirappalli
+TSA,Taipei Songshan
+TSF,Venice Treviso/Sant'Angelo Apt
+TSH,Tshikapa
+TSJ,Tsushima
+TSL,  Tamuin
+TSN,Tianjin
+TSO,  Tresco
+TSR,Timisoara
+TSS,  New York
+TST,Trang
+TSU,Tabiteuea South Airport
+TSV,Townsville
+TSY,Tasikmalaya
+TTA,Tan Tan
+TTB,TORTOLI/ARBATAX
+TTD,PORTLAND/TROUTDALE
+TTE,Ternate
+TTG,TARTAGAL/GRAL ENRIQUE MOSCONI
+TTH,THUMRAIT
+TTJ,Tottori
+TTN,Philadelphia Trenton-Mercer Apt
+TTQ,Tortuquero
+TTR,Tana Toraja
+TTT,Taitung
+TTU,Tetouan
+TUA,Tulcan
+TUB,Tubuai
+TUC,Tucuman
+TUD,TAMBACOUNDA
+TUF,Tours Val de Loire Airport
+TUG,Tuguegarao
+TUI,Turaif
+TUK,Turbat
+TUL,Tulsa International Apt
+TUN,Tunis
+TUO,Taupo
+TUP,Tupelo
+TUR,Tucurui
+TUS,Tucson International Apt
+TUU,Tabuk
+TUV,Tucupita
+TUW,  Tubala
+TVA,  Morafenobe
+TVC,Traverse City
+TVF,Thief River Falls
+TVL,SOUTH LAKE TAHOE
+TVS,Tangshan
+TVU,Taveuni Island
+TVY,Dawei
+TWA,Twin Hills
+TWB,Toowoomba
+TWC,Tumxuk Tangwangcheng
+TWF,Twin Falls
+TWT,Tawitawi
+TWU,Tawau
+TXE,Rembele
+TXF,Teixeira de Freitas
+TXG,TAICHUNG-CHING CHUAN KANG
+TXK,Texarkana
+TXL,Berlin Tegel Apt
+TXN,Huangshan
+TYF,Torsby
+TYD,Tynda
+TYL,TALARA/CAPITAN MONTES
+TYN,Taiyuan
+TYR,Tyler
+TYS,Knoxville
+TZA,Belize City Municipal Apt
+TZL,Tuzla
+TZN,  South Andros
+TZX,Trabzon
+UAB,ADANA/INCIRLIK
+UAH,Ua Huka
+UAI,SUAI
+UAK,Narsarsuaq
+UAM,GUAM/ANDERSON AFB
+UAP,Ua Pou
+UAR,Bouarfa
+UAQ,San Juan
+UAS,Samburu
+UBA,Uberaba
+UBB,  Mabuiag Island
+UBJ,Ube
+UBN,Ulaanbaatar New
+UBP,Ubon Ratchathani
+UCA,UTICA / ONEIDA COUNTY
+UCB,Ulanqab Jining
+UCT,Ukhta
+UDE,UDEN/VOLKEL
+UDG,DARLINGTON COUNTY JETPORT
+UDI,Uberlandia
+UDJ,Uzhhorod
+UDN,UDINE RIVOLTO MIL
+UDR,Udaipur
+UEL,Quelimane
+UEO,Kume Jima
+UET,Quetta
+UFA,Ufa
+UGB,Pilot Point Ugashik Bay Apt
+UGC,Urgench
+UGI,Uganik
+UHE,KUNOVICE
+UHK,SOVIETSKAYA GAVAN/KAMIENNY R.
+UIB,Quibdo
+UIH,Quinhon
+UII,Utila
+UIK,UST-ILIMSK
+UIL,QUILLAYUTE
+UIN,Quincy
+UIO,Quito
+UIP,Quimper
+UIR,QUIRINDI
+UIT,XXX
+UJE,XXX
+UKA,Ukunda
+UKB,Osaka Kobe Airport
+UKG,Ust-Kuyga
+UKH,Mukhaizna
+UKI,UKIAH MUNI
+UKK,Ust-Kamenogorsk
+UKS,Sevastopol
+UKX,Ust-Kut
+ULA,SAN JULIAN/CPT D.J.D.VAZQUEZ
+ULB,Ulei
+ULD,Ulundi
+ULG,Olgii
+ULH,Al Ula
+ULK,Lensk
+ULN,Ulaanbaatar
+ULO,Ulaangom
+ULP,Quilpie
+ULS,ULYSSES
+ULU,GULU
+ULV,Ulyanovsk
+ULX,Ulusaba
+ULY,ULYANOVSK VOSTOCHNY
+ULZ,Uliastai
+UMB,Kalumbila
+UMD,Uummannaq
+UME,Umea
+UMK,KUBINKA
+UMR,WOOMERA
+UMU,UMUARAMA
+UMY,  Sumy
+UNA,  Una
+UND,Kunduz
+UNG,Kiunga
+UNI,UNION ISLAND
+UNK,Unalakleet
+UNN,Ranong
+UOL,Pogogul
+UPB,Havana
+UPG,Makassar
+UPK,Upernavik Kujalleq Heliport
+UPN,Uruapan
+URA,Uralsk
+URB,CASTILHO/URUBUPUNGA
+URC,Urumqi
+URE,Kuressaare
+URG,Uruguaiana
+URJ,URAY
+URO,ROUEN/VALLEE DE SEINE
+URS,KURSK VOSTOCHNY
+URT,Surat Thani
+URY,Gurayat
+USA,Concord
+USH,Ushuaia
+USJ,Usharal
+USK,Usinsk
+USM,Ko Samui
+USN,Ulsan
+USQ,USAK
+USR,Ust-Nera
+UST,St Augustine
+USU,Busuanga
+UTC,UTRECHT/SOESTERBERG
+UTH,Udon Thani
+UTI,UTTI
+UTK,XXX
+UTM,  Tunica
+UTN,Upington
+UTP,U-Tapao
+UTR,UTTARADIT
+UTS,Ust-Tsilma
+UTT,Umtata
+UTW,QUEENSTOWN
+UTZ,UST-TSILMA
+UUA,Bugulma
+UUD,Ulan-Ude
+UUS,Yuzhno-Sakhalinsk
+UUW,ULAN-UDE EAST
+UVE,Ouvea
+UVF,St Lucia Hewanorra Apt
+UVI,Uniao da Vitoria
+UVL,EL KHARGA
+UXX,MARY NORTH
+UYL,Nyala
+UYN,Yulin
+UYU,Uyuni
+UZU,CURUZU CUATIA
+VAA,Vaasa
+VAF,VALENCE/CHABEUIL
+VAG,Varginha
+VAI,Vanimo
+VAK,Chevak
+VAL,Valenca
+VAM,Maamingili
+VAN,Van
+VAO,Suavanao
+VAR,Varna
+VAS,Sivas
+VAV,VAVA U
+VAW,Vardo
+VBA,ANN
+VBG,LOMPOC/VANDENBERG AFB
+VBM,Blue Mountain
+VBP,Bokpyin
+VBS,BRESCIA/MONTICHIARI
+VBV,Vanuabalavu Island
+VBY,Visby
+VCA,Cantho
+VCE,Venice Marco Polo Apt
+VCL,Tamky
+VCP,Sao Paulo Viracopos Apt
+VCR,CARORA
+VCS,Con Dao
+VCT,Victoria
+VCV,VICTORVILLE
+VDA,Ovda
+VDB,Fagernes
+VDC,Vitoria da Conquista
+VDE,Valverde
+VDF,TAMPA/VANDENBERG
+VDH,Dong Hoi
+VDI,Vidalia
+VDM,Viedma
+VDO,Van Don
+VDP,VALLE DE LA PASCUA
+VDS,Vadso
+VDY,Vidyanagar
+VDZ,Valdez
+VEE,Venetie
+VEL,Vernal
+VER,Veracruz
+VEY,VESTMANNAEYJAR
+VFA,Victoria Falls
+VGA,Vijayawada
+VGD,VOLOGDA
+VGO,Vigo
+VGT,NORTH LAS VEGAS
+VGZ,Villa Garzon
+VHC,Saurimo
+VHM,Vilhelmina
+VHY,VICHY/CHARMEIL
+VHZ,Vahitahi
+VIC,VICENZA
+VIE,Vienna
+VIG,El Vigia
+VII,Vinh City
+VIJ,Virgin Gorda
+VIK,Kavik
+VIL,Dakhla
+VIN,Vinnytsia
+VIS,Visalia
+VIT,Vitoria
+VIX,Vitoria
+VJB,Xai-Xai Chongoene
+VKG,Rachgia
+VKO,Moscow Vnukovo International Apt
+VKT,Vorkuta
+VLC,Valencia
+VLD,Valdosta Regional Apt
+VLG,Villa Gesell
+VLI,Port Vila
+VLL,Valladolid
+VLM,VILLAMONTES/TCNL. RAFAEL PABON
+VLN,Valencia
+VLQ,TULUA - FARFAN
+VLR,VALLENAR
+VLS,Valesdir
+VLV,Valera
+VLY,Anglesey
+VME,Villa Mercedes
+VMU,  Baimuru
+VNE,VANNES/MEUCON
+VNO,Vilnius
+VNS,Varanasi
+VNT,Ventspils
+VNX,Vilankulos
+VNY,VAN NUYS AIRPORT
+VOG,Volgograd
+VOK,CAMP DOUGLAS/VOLK FLD
+VOL,NEA ANCHIALOS
+VOT,VOTUPORANGA
+VOZ,Voronezh
+VPE,Ondjiva
+VPG,Vipingo
+VPN,  Vopnafj r ur
+VPS,Valparaiso Fort Walton Beach Apt
+VPY,Chimoio
+VQQ,JACKSONVILLE CECIL FLD
+VQS,Vieques
+VRA,Varadero Juan Gualberto Gomez Apt
+VRB,VERO BEACH MUNI
+VRC,Virac
+VRK,Varkaus
+VRN,Verona Villafranca Airport
+VRU,VRYBURG
+VRY,  V r y
+VSA,Villahermosa
+VSE,VISEU
+VSG,Luhansk
+VST,Stockholm Vasteras Apt
+VTB,VITEBSK
+VTE,Vientiane
+VTG,VUNGTAU
+VTN,VALENTINE / MILLER FIELD
+VTU,LAS TUNAS
+VTZ,Vishakhapatnam
+VUJ,ALBEMARLE / STANLEY COUNTY
+VUP,Valledupar
+VUS,Veliky Ustyug
+VVC,Villavicencio
+VVI,Santa Cruz Viru Viru International Apt
+VVO,Vladivostok
+VVZ,Illizi
+VXC,Lichinga
+VXE,Sao Vicente Island
+VXO,Vaxjo
+VYS,PERU
+WAA,Wales
+WAE,Wadi al Dawaser
+WAG,Wanganui
+WAI,  Antsohihy
+WAL,WALLOPS FLIGHT FACILITY NASA
+WAM,  Ambatondrazaka
+WAQ,  Antsalova
+WAT,Waterford
+WAW,Warsaw
+WAX,ZWARA
+WBB,Stebbins
+WBG,SCHLESWIG
+WBM,Wapenamanda
+WBQ,Beaver
+WCA,CASTRO/GAMBOA
+WCH,CHAITEN
+WDB,PRETORIA/WONDERBOOM
+WDH,Windhoek Hosea Kutako International
+WDR,WINDER-BARROW AIRPORT
+WDS,Shiyan Wudangshan
+WEF,Weifang
+WEH,Weihai
+WEI,Weipa
+WFD,MANCHESTER WOODFORD
+WFI,  Fianarantsoa
+WFK,FRENCHVILLE NORT.AROOSTOOK REG
+WGA,Wagga Wagga
+WGC,WARANGAL
+WGE,WALGETT
+WGN,Shaoyang Wugang
+WGP,Waingapu
+WGT,WANGARATA
+WHA,Wuhu
+WHF,WADI HALFA
+WHK,Whakatane
+WIC,Wick
+WIE,WIESBADEN - ERBENHEIM
+WIL,Nairobi Wilson Apt
+WIN,Winton
+WJA,Woja
+WJF,LANCASTER
+WJR,Wajir
+WJU,Won-ju
+WKA,  Wanaka
+WKB,WARRACKNABEAL
+WKF,WATERKLOOF
+WKJ,Wakkanai
+WKK,Aleknagik
+WLE,Miles
+WLG,Wellington
+WLH,Walaha
+WLK,Selawik
+WLP,West Angelas
+WLS,Wallis Island
+WMB,WARRNAMBOOL
+WMC,WINNEMUCCA
+WME,MT. KEITH
+WMI,Nowy Dwor Mazowiecki
+WMN,Maroantsetra
+WMO,White Mountain
+WMR,Mananara Avaratra
+WMT,Zunyi Maotai
+WMX,Wamena
+WNA,Napakiak
+WNH,Wenshan
+WNN,Wunnummin Lake
+WNP,Naga
+WNR,Windorah
+WNS,NAWABSHAH
+WNZ,Wenzhou
+WOE,WOENSDRECHT AB
+WOL,WOLLONGONG
+WOT,Wang-an
+WPA,PUERTO AYSEN/CABO1 JUAN ROMAN
+WPC,PINCHER CREEK
+WPM,  Wipim
+WPR,PORVENIR/CAPITAN FUENTES MART.
+WPU,PUERTO WILLIAMS/GUARD.ZANARTU
+WRB,MACON/ROBINS AFB
+WRE,Whangarei
+WRG,Wrangell
+WRI,MC GUIRE AFB
+WRL,Worland
+WRO,Wroclaw
+WRY,Westray
+WRZ,Weerawila
+WSK,Chongqing Wushan
+WSN,South Naknek
+WST,  Westerly
+WSX,Westsound
+WSZ,Westport
+WTB,Brisbane West Wellcamp
+WTD,WEST END
+WTE,XXX
+WTK,Noatak
+WTL,Tuntutuliak
+WTN,WADDINGTON
+WTO,XXX
+WTP,  Woitape
+WTS,  Tsiroanomandidy
+WUA,Wuhai
+WUH,Wuhan
+WUN,WILUNA
+WUS,Wuyishan
+WUT,Xinzhou Wutaishan
+WUU,WAU
+WUX,Wuxi
+WUZ,Wuzhou
+WVB,Walvis Bay
+WWI,Woodie Woodie
+WWK,Wewak
+WWP,Whale Pass
+WWT,Newtok
+WWY,WEST WYALONG
+WXN,Wanzhou
+WYA,Whyalla
+WYN,WYNDHAM
+WYS,WEST YELLOWSTONE
+WZA,Wa
+XAC,ARCACHON LA TESTE DE BUCH
+XAI,Xinyang Minggang
+XAP,Chapeco
+XAS,ALES/DEAUX
+XBE,Bearskin Lake
+XBJ,Birjand
+XBQ,BLOIS/LE BREUIL
+XCB,CAMBRAI/EPINOY
+XCD,CHALON/CHAMPFORGEUIL
+XCH,Christmas Island
+XCR,Paris Chalons-Vatry Airport
+XCZ,CHARLEVILLE/MEZIERES
+XDB,XXX
+XDS,Ottawa Rail CA
+XEQ,Tasiuasaq
+XFA,Lille Rail Stn
+XFN,Xiangyang
+XFV,BRANTFORD
+XFW,Hamburg Finkenwerder
+XGG,GOROM GOROM
+XGR,Kangiqsualujjuaq
+XHK,Valence Rail FR
+XIC,Xichang
+XIL,Xilinhot
+XIQ,Ilimanaq
+XIY,Xi'an Xianyang Apt
+XIZ,Reims Rail Stn
+XJD,AL UDAID AIR BASE
+XKH,Phonsavan
+XKS,Kasabonika
+XLB,LAC BROCHET
+XLS,SAINT LOUIS
+XLW,LEMWERDER
+XMF,MONTBELIARD/COURCELLES
+XMH,Manihi
+XMN,Xiamen
+XMR,CAPE CANAVERAL/AFS
+XMS,Macas
+XMU,MOULINS/MONTBEUGNY
+XMY,  Yam Island
+XNA,Fayetteville Northwest Arkansas Reg Apt
+XNH,Ali Air Base
+XNN,Xining
+XNT,Xingtai Dalian
+XNV,NEVATIM AB
+XOG,ORANGE
+XOP,Poitiers Rail (FR)
+XOZ,Doha Free Zone
+XPG,Paris-Gare du Nord Rail Stn FR
+XPJ,XXX
+XPK,PUKATAWAGAN
+XPL,Comayagua
+XPP,POPLAR RIVER
+XQC,BALAD SOUTHEAST AIRFIELD
+XQP,Quepos
+XQU,  Qualicum Beach
+XRF,XXX
+XRY,Jerez
+XSB,Sir Bani Yas Island
+XSC,South Caicos
+XSH,Tours Rail FR
+XSI,SOUTH INDIAN LAKE
+XSP,SINGAPORE/SELETAR
+XSU,SAUMUR/ST. FLORENT
+XTG,Thargomindah
+XTL,TADOULE LAKE
+XTO,Taroom
+XTV,TIKRIT/AL SAHRA AAF
+XUZ,Xuzhou
+XVN,VERDUN/LE ROZELIER
+XVW,WOLVERHAMPTON
+XWA,Williston
+XWG,Strasbourg Rail Stn
+XXO,TITUSVILLE/NASA SHUTTLE LDGFAC
+XXX,SIOUX NARROWS
+XYA,  Yandina
+XYD,XXX
+XYT,TOULOUSE MONTAUDRAN
+XZI,Metz TGV Station
+XZN,XXX
+XZV,Toulon TGV Station FR
+YAA,Anahim Lake
+YAB,Arctic Bay
+YAC,Cat Lake
+YAD,KATTINIQ/DONALDSON
+YAG,Fort Frances
+YAH,LA GRANDE 3
+YAI,CHILLAN/BERNARDO OHIGGINS
+YAJ,  Lyall Harbour
+YAK,Yakutat
+YAM,Sault Ste Marie
+YAO,YAOUNDE
+YAP,Yap
+YAT,Attawapiskat
+YAV,Miner's Bay
+YAW,HALIFAX SHEARWATER
+YAX,Angling Lake
+YAY,St Anthony
+YAZ,TOFINO
+YBB,Pelly Bay
+YBC,Baie Comeau
+YBE,URANIUM CITY
+YBF,BONNYVILLE
+YBG,Bagotville
+YBI,  Black Tickle
+YBK,Baker Lake
+YBL,Campbell River Municipal Apt
+YBP,Yibin
+YBR,Brandon
+YBT,BROCHET
+YBV,BERENS RIVER
+YBW,  Bedwell Harbor
+YBX,Blanc Sablon
+YCB,Cambridge Bay
+YCC,CORNWALL REGIONAL
+YCD,Nanaimo Cassidy Apt
+YCE,CENTRALIA/HURON AIRPARK
+YCG,Castlegar
+YCH,MIRAMICHI
+YCK,Colville Lake
+YCL,Charlo
+YCN,COCHRANE
+YCO,Kugluktuk Coppermine
+YCR,CROSS LAKE
+YCS,Chesterfield Inlet
+YCU,Yuncheng
+YCW,CHILLIWACK
+YCY,Clyde River
+YDA,DAWSON CITY
+YDB,BURWASH
+YDF,Deer Lake
+YDL,DEASE LAKE
+YDN,DAUPHIN LTC W.G.(BILLY)BARKER
+YDP,Nain
+YDQ,Dawson Creek
+YDS,  Desolation Sound
+YDV,BLOODVEIN RIVER
+YEC,YECHON
+YEE,MIDLAND HURONIA
+YEG,Edmonton International Apt
+YEI,Bursa
+YEK,Arviat
+YEL,ELLIOT LAKE MUNICIPAL
+YEM,MANITOWANING MANITOULIN EAST M
+YEO,YEOVILTON
+YER,Fort Severn
+YES,Yasouj
+YET,EDSON
+YEU,EUREKA
+YEV,Inuvik
+YFA,Fort Albany
+YFB,Iqaluit
+YFC,Fredericton
+YFH,Fort Hope
+YFJ,Snare Lake
+YFO,Flin Flon
+YFR,FORT RESOLUTION
+YFS,Fort Simpson
+YFX,Fox Harbour
+YGB,TEXADA GILLIES BAY
+YGG,  Ganges Harbor
+YGH,Fort Good Hope
+YGJ,Yonago
+YGK,Kingston
+YGL,La Grande
+YGM,GIMLI INDUSTRIAL PARK AIRPORT
+YGN,  Greenway Sound
+YGO,GODS LAKE NARROWS
+YGP,Gaspe
+YGQ,Geraldton
+YGR,Iles de la Madeleine
+YGT,Igloolik
+YGV,Havre St Pierre
+YGW,Kuujjuarapik
+YGX,Gillam
+YGZ,Grise Fiord
+YHA,Port Hope Simpson
+YHD,Dryden
+YHE,HOPE
+YHG,Charlottetown
+YHH,Campbell River
+YHI,Ulukhaktok
+YHK,Gjoa Haven
+YHM,Toronto John C Munro Hamilton
+YHO,Hopedale
+YHP,Poplar Hill
+YHR,Chevery
+YHS,  Sechelt
+YHU,Montreal St Hubert Apt
+YHY,Hay River
+YHZ,Halifax Stanfield International Apt
+YIA,Yogyakarta
+YIB,ATIKOKAN MUNI
+YIC,Yichun (Jiangxi)
+YIE,Aershan
+YIF,Pakuashipi
+YIH,Yichang
+YIK,Ivujivik
+YIN,Yining
+YIO,Pond Inlet
+YIP,DETROIT/WILLOW RUN
+YIV,ISLAND LAKE
+YIW,Yiwu
+YJN,ST-JEAN
+YJT,Stephenville
+YKA,Kamloops
+YKF,Toronto Region of Waterloo Int
+YKG,Kangirsuk
+YKH,Yingkou Lanqi
+YKL,Schefferville
+YKM,Yakima Air Terminal
+YKO,Hakkari VYuksekova Selahaddin Eyyubi
+YKQ,Waskaganish
+YKS,Yakutsk
+YKT,Klemtu
+YKU,Chisasibi
+YKX,KIRKLAND
+YKZ,TORONTO BUTTONVILLE MUNI
+YLB,LAC LA BICHE
+YLC,Kimmirut/Lake Harbour
+YLD,CHAPLEAU
+YLE,Whati
+YLH,Lansdowne House
+YLI,YLIVIESKA
+YLJ,MEADOW LAKE
+YLL,Lloydminster
+YLQ,LA TUQUE
+YLR,LEAF RAPIDS
+YLT,ALERT
+YLW,Kelowna
+YLX,Yulin Fumian
+YLY,Langley Regional
+YMF,  Montagne Harbor
+YMH,Mary's Harbour
+YMJ,MOOSE JAW V.MARSHALL CM MCEWEN
+YMK,Mys-Kamenny
+YMM,Fort McMurray
+YMN,Makkovik
+YMO,Moosonee
+YMP,  Port McNeill
+YMS,YURIMAGUAS/M.BENZAQUEN RENGIFO
+YMT,Chibougamau
+YMU,Mansons Landing
+YMW,MANIWAKI
+YMX,MONTREAL INTL MIRABEL
+YNA,Natashquan
+YNB,Yanbu al Bahr
+YNC,Wemindji
+YND,OTTAWA/GATINEAU
+YNE,NORWAY HOUSE
+YNG,Youngstown
+YNH,HUDSONS HOPE
+YNJ,Yanji
+YNM,MATAGAMI
+YNO,North Spirit Lake
+YNP,Natuashish
+YNS,Nemiscau
+YNT,Yantai
+YNY,Yangyang
+YNZ,Yancheng
+YOA,EKATI
+YOC,  Old Crow
+YOD,COLD LAKE
+YOG,Ogoki
+YOH,OXFORD HOUSE
+YOJ,High Level
+YOL,Yola
+YON,Yongphulla
+YOP,Rainbow Lake
+YOW,McDonald -  Cartier Intl Apt
+YOY,VALCARTIER
+YPA,PRINCE ALBERT GLASS FIELD
+YPB,  Port Alberni
+YPC,Paulatuk
+YPD,CAPE PARRY
+YPE,PEACE RIVER
+YPG,PORTAGE LA PRAIRIE/SOUTHPORT
+YPH,Inukjuak
+YPJ,Aupaluk
+YPK,PITT MEADOWS BC
+YPL,Pickle Lake
+YPM,Pikangikum
+YPN,Port Menier
+YPO,Peawanuck
+YPQ,PETERBOROUGH
+YPR,Prince Rupert Digby Island Apt
+YPS,PORT HAWKESBURY
+YPT,  Pender Harbour
+YPW,Powell River
+YPX,Puvirnituq
+YPY,Fort Chipewyan
+YPZ,BURNS LAKE
+YQA,MUSKOKA
+YQB,Quebec International Airport
+YQC,Quaqtaq
+YQD,The Pas
+YQF,Red Deer
+YQG,Windsor
+YQH,WATSON LAKE
+YQI,YARMOUTH
+YQJ,Quadra Island
+YQK,Kenora
+YQL,Lethbridge
+YQM,Greater Moncton International Airport
+YQN,  Nakina
+YQQ,Comox
+YQR,Regina
+YQS,ST. THOMAS MUNI
+YQT,Thunder Bay
+YQU,Grande Prairie
+YQV,YORKTON MUNI
+YQW,NORTH BATTLEFORD CAMERON
+YQX,Gander
+YQY,Sydney
+YQZ,Quesnel
+YRA,Rae Lakes
+YRB,Resolute
+YRC,Refuge Cove
+YRF,  Cartwright
+YRG,Rigolet
+YRI,RIVIERE-DU-LOUP
+YRJ,Roberval
+YRL,Red Lake
+YRM,ROCKY MOUNTAIN HOUSE
+YRO,OTTAWA/ROCKCLIFFE
+YRQ,THETFORD MINES
+YRS,RED SUCKER LAKE
+YRT,Rankin Inlet
+YSB,Sudbury
+YSC,SHERBROOKE
+YSE,SQUAMISH
+YSF,STONY RAPIDS
+YSG,Lutselke Snowdrift
+YSJ,St John
+YSK,Sanikiluaq
+YSL,ST. LEONARD
+YSM,Fort Smith
+YSN,ST. CATHARINES/NIAGARA
+YSO,Postville
+YSP,MARATHON
+YSQ,Songyuan Chaganhu
+YSR,NANISIVIK
+YST,ST. THERESA POINT
+YSU,SUMMERSIDE
+YSY,Sachs Harbour
+YTA,PEMBROKE
+YTD,THICKET PORTAGE
+YTE,Cape Dorset
+YTF,Alma
+YTG,  Sullivan Bay
+YTH,Thompson
+YTJ,TERRACE BAY
+YTL,Big Trout Lake
+YTM,Mont Tremblant
+YTQ,Tasiujuaq
+YTR,TRENTON
+YTS,Timmins
+YTW,Yutian Wanfang
+YTY,Yangzhou
+YTZ,Bishop Billy City A/P
+YUB,Tuktoyaktuk
+YUD,Umiujaq
+YUJ,LADY FRANKLIN POINT
+YUL,Montreal Pierre Elliott Trudeau Int Apt
+YUM,Yuma International Apt
+YUS,Yushu
+YUT,Repulse Bay
+YUX,Hall Beach
+YUY,Rouyn
+YVA,  Moroni
+YVB,Bonaventure
+YVC,LA RONGE (BARBER FIELD)
+YVE,VERNON
+YVM,Qikiqtarjuaq
+YVO,Val D'Or
+YVP,Kuujjuaq
+YVQ,Norman Wells
+YVR,Vancouver International Apt
+YVT,BUFFALO NARROWS
+YVV,WIARTON
+YVZ,Deer Lake
+YWA,PETAWAWA
+YWB,Kangiqsujuaq
+YWG,Winnipeg
+YWH,Victoria Inner Harbour Apt
+YWJ,Deline
+YWK,Wabush
+YWL,Williams Lake
+YWM,Williams Harbour
+YWO,LUPIN
+YWP,Webequie
+YWS,  Whistler
+YWY,WRIGLEY
+YXC,Cranbrook
+YXD,EDMONTON CITY CENTRE
+YXE,Saskatoon
+YXH,Medicine Hat
+YXJ,Fort St John
+YXK,RIMOUSKI/RICHELIEU
+YXL,Sioux Lookout
+YXN,Whale Cove
+YXP,Pangnirtung
+YXR,EARLTON/TIMISKAMING REGIONAL
+YXS,Prince George
+YXT,Terrace
+YXU,London International
+YXX,Abbotsford
+YXY,Whitehorse
+YXZ,WAWA
+YYA,Yueyang Sanhe
+YYB,North Bay
+YYC,Calgary
+YYD,Smithers
+YYE,Fort Nelson
+YYF,Penticton
+YYG,Charlottetown
+YYH,Taloyoak
+YYJ,Victoria International Apt
+YYL,LYNN LAKE
+YYN,SWIFT CURRENT
+YYQ,Churchill Airport
+YYR,Goose Bay
+YYT,St Johns
+YYU,Kapuskasing
+YYY,Mont Joli
+YYZ,Lester B Pearson Intl
+YZD,TORONTO/DOWNSVIEW
+YZE,GORE BAY MANITOULIN
+YZF,Yellowknife
+YZG,Salluit
+YZH,SLAVE LAKE
+YZP,Sandspit
+YZR,Sarnia
+YZS,Coral Harbour
+YZT,Port Hardy
+YZU,WHITECOURT
+YZV,Sept-Iles
+YZX,GREENWOOD
+YZY,Zhangye
+YZZ,Trail
+ZAC,YORK LANDING
+ZAD,Zadar
+ZAG,Zagreb
+ZAH,Zahedan
+ZAJ,Zaranj
+ZAL,Valdivia
+ZAM,Zamboanga
+ZAO,CAHORS LALBENQUE
+ZAQ,Nuremberg Rail DE
+ZAR,ZARIA
+ZAT,Zhaotong
+ZAZ,Zaragoza
+ZBF,Bathurst
+ZBL,Biloela
+ZBM,BROMONT
+ZBR,Chah Bahar
+ZBT,KOLDING/VAMDRUP
+ZBY,SAYABOURY
+ZCL,Zacatecas
+ZCN,CELLE
+ZCO,Temuco
+ZCP,COBURG BRANDENSTEINSEBENE
+ZDH,Basel/Mulhouse Rail (CH)
+ZDN,Brno Bus (CZ)
+ZDY,Delma Island
+ZEL,Bella Bella
+ZEM,East Main
+ZER,Zero
+ZEU,Goettingen Stn DE
+ZFD,FOND-DU-LAC
+ZFJ,XXX
+ZFL,Zhaosu Tianma
+ZFM,Fort McPherson
+ZFN,Tulita Fort Norman
+ZFQ,XXX
+ZFV,Philadelphia Rail US
+ZGC,LANZHOU/ZHONGCHUAN
+ZGI,GODS RIVER
+ZGR,LITTLE GRAND RAPIDS
+ZGS,Gethsemani
+ZGU,Gaua
+ZHA,Zhanjiang
+ZHI,GRENCHEN
+ZHM,SHAMSHERNAGAR
+ZHY,Zhongwei
+ZIA,Zhukovsky
+ZIG,Ziguinchor
+ZIH,Ixtapa/Zihuatanejo
+ZIS,Alzintan
+ZIX,Zhigansk
+ZJG,JENPEG
+ZKE,Kashechewan
+ZKG,Kegaska
+ZKP,Zyryanka
+ZLN,Le Mans Rail (FR)
+ZLO,Manzanillo
+ZLT,La Tabatiere
+ZMB,Hamburg Rail DE
+ZME,Newark Metropark Rail
+ZMG,MAGDEBURG
+ZMH,108 MILE AIRPORT
+ZMT,Masset
+ZMU,Munich Rail (DE)
+ZNA,Nanaimo Harbour
+ZND,ZINDER
+ZNE,Newman
+ZNZ,Zanzibar
+ZOS,Osorno
+ZPB,Sachigo Lake
+ZPC,PUCON
+ZQN,Queenstown
+ZQW,Zweibruecken Airport
+ZQZ,Zhangjiakou
+ZRH,Zurich Airport
+ZRI,Serui Airport
+ZRJ,Round Lake
+ZSA,San Salvador
+ZSE,St-Pierre
+ZSJ,Sandy Lake
+ZSY,SCOTTSDALE
+ZTA,Tureia
+ZTB,Tete-a-La Baleine
+ZTC,Turin Bus IT
+ZTF,Westchester Rail US
+ZTH,Zakinthos Island
+ZTM,SHAMATTAWA
+ZTT,COTTBUS
+ZTU,Zaqatala
+ZUD,ANCUD/PUPELDE
+ZUH,Zhuhai
+ZUM,Churchill Falls
+ZVE,XXX
+ZVK,Savannakhet
+ZVR,Hanover Rail
+ZWE,Antwerp Central Rail Stn
+ZWI,XXX
+ZWL,WOLLASTON LAKE
+ZWS,STUTTGART/TRAIN STATION
+ZYI,Zunyi
+ZYL,Sylhet
+ZYN,Nimes Rail FR
+ZYR,Brussels Midi Rail BE
+ZYZ,XXX
+ZZO,Zonalnoye
+ZZU,  Mzuzu
+ZZV,ZANESVILLE MUNI AIRPORT
